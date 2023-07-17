@@ -1,0 +1,1505 @@
+﻿AircraftId,Date,DayOfTheWeek,AircraftType,Origin,Destination,DepartureAEST,DepartureHour,ArrivalAEST,Duration
+FD425,15/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Bundaberg (BDB / YBUD),4:32 PM,16,4:32 PM,0
+FD596,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Adelaide Int'l (ADL / YPAD),6:58 PM,18,6:58 PM,0
+FD619,16/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Jandakot (JAD / YPJT),5:04 AM,5,5:04 AM,0
+FD425,15/07/2022,Friday,BE20,Gladstone (GLT / YGLA),Gladstone (GLT / YGLA),11:29 PM,23,11:30 PM,1
+FD607,7/07/2022,Thursday,PC12,Broome Int'l (BME / YBRM),Broome Int'l (BME / YBRM),6:50 PM,18,6:51 PM,1
+FD619,13/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Jandakot (JAD / YPJT),8:57 PM,20,8:58 PM,1
+FD416,11/07/2022,Monday,BE20,Mount Isa (ISA / YBMA),Mount Isa (ISA / YBMA),10:39 AM,10,10:41 AM,2
+FD456,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Brisbane (BNE / YBBN),1:58 PM,13,2:01 PM,3
+FD849,5/07/2022,Tuesday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),2:45 AM,2,2:49 AM,4
+FD874,5/07/2022,Tuesday,PC12,Snake Bay (SNB / YSNK),Garden Point (GPN / YGPT),8:46 AM,8,8:50 AM,4
+FD874,12/07/2022,Tuesday,PC12,Garden Point (GPN / YGPT),Snake Bay (SNB / YSNK),4:34 PM,16,4:39 PM,5
+FD607,6/07/2022,Wednesday,PC12,Broome Int'l (BME / YBRM),Broome Int'l (BME / YBRM),3:45 AM,3,3:51 AM,6
+FD478,17/07/2022,Sunday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),9:40 PM,21,9:47 PM,7
+FD596,6/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Kadina (YKDI),12:11 AM,0,12:18 AM,7
+FD493,8/07/2022,Friday,BE20,Eulo (YEUO),Yowah (YYWA),12:46 PM,12,12:54 PM,8
+FD534,11/07/2022,Monday,PC12,Quorn (YQRN),Port Pirie (PPI / YPIR),6:55 PM,18,7:03 PM,8
+FD538,18/07/2022,Monday,PC12,Bordertown (YBOR),Naracoorte (NAC / YNRC),1:59 PM,13,2:07 PM,8
+FD602,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Jandakot (JAD / YPJT),5:59 PM,17,6:07 PM,8
+FD602,10/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Rottnest Island (RTS / YRTI),5:37 AM,5,5:45 AM,8
+FD534,11/07/2022,Monday,PC12,Port Augusta (PUG / YPAG),Quorn (YQRN),5:03 PM,17,5:12 PM,9
+FD602,10/07/2022,Sunday,PC12,Rottnest Island (RTS / YRTI),Jandakot (JAD / YPJT),6:24 AM,6,6:33 AM,9
+FD596,5/07/2022,Tuesday,PC12,Millicent (MLR / YMCT),Mount Gambier (MGB / YMTG),6:29 PM,18,6:39 PM,10
+FD467,13/07/2022,Wednesday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),3:07 PM,15,3:18 PM,11
+FD534,13/07/2022,Wednesday,PC12,Cummins Town (YCMM),Port Lincoln (PLO / YPLC),9:37 AM,9,9:48 AM,11
+FD534,16/07/2022,Saturday,PC12,Hubert Wilkings Airstrip (YJST),Port Pirie (PPI / YPIR),1:56 PM,13,2:07 PM,11
+FD538,16/07/2022,Saturday,PC12,Hubert Wilkings Airstrip (YJST),Port Pirie (PPI / YPIR),1:56 PM,13,2:07 PM,11
+FD596,8/07/2022,Friday,PC12,Whyalla (WYA / YWHA),Port Pirie (PPI / YPIR),6:52 PM,18,7:03 PM,11
+FD425,17/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),6:32 PM,18,6:44 PM,12
+FD596,8/07/2022,Friday,PC12,Port Augusta (PUG / YPAG),Whyalla (WYA / YWHA),5:31 PM,17,5:43 PM,12
+FD425,12/07/2022,Tuesday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),7:39 PM,19,7:52 PM,13
+FD478,3/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),8:46 PM,20,8:59 PM,13
+FD624J,7/07/2022,Thursday,PC24,Broome Int'l (BME / YBRM),Broome Int'l (BME / YBRM),7:46 AM,7,7:59 AM,13
+FD853,12/07/2022,Tuesday,PC12,Anthony Lagoon (AYL / YANL),Brunette Downs (YBRU),8:25 AM,8,8:38 AM,13
+FD874,14/07/2022,Thursday,PC12,Bathurst Island (BRT / YBTI),Darwin Int'l / RAAF (DRW / YPDN),6:14 PM,18,6:27 PM,13
+FD425,10/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),7:14 PM,19,7:28 PM,14
+FD425,11/07/2022,Monday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),8:56 PM,20,9:10 PM,14
+FD425,15/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),10:44 AM,10,10:58 AM,14
+FD449,13/07/2022,Wednesday,B350,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),9:17 PM,21,9:31 PM,14
+FD449,6/07/2022,Wednesday,B350,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),11:11 AM,11,11:25 AM,14
+FD449,8/07/2022,Friday,B350,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),10:58 AM,10,11:12 AM,14
+FD456,7/07/2022,Thursday,BE20,Roma (RMA / YROM),Mitchell (YMIT),10:01 AM,10,10:15 AM,14
+FD478,4/07/2022,Monday,BE20,Bundaberg (BDB / YBUD),Hervey Bay (HVB / YHBA),8:39 PM,20,8:53 PM,14
+FD489,7/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),7:19 AM,7,7:33 AM,14
+FD601,17/07/2022,Sunday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Kalgoorlie-Boulder (KGI / YPKG),9:58 AM,9,10:12 AM,14
+FD423,18/07/2022,Monday,B350,Charters Towers (CXT / YCHT),Townsville Int'l / RAAF (TSV / YBTL),12:16 AM,0,12:31 AM,15
+FD425,7/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Maryborough (MBH / YMYB),7:30 PM,19,7:45 PM,15
+FD425,9/07/2022,Saturday,BE20,Dalby (DBY / YDAY),Toowoomba (YTWB),10:06 PM,22,10:21 PM,15
+FD449,4/07/2022,Monday,B350,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),8:56 PM,20,9:11 PM,15
+FD449,5/07/2022,Tuesday,B350,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),6:59 PM,18,7:14 PM,15
+FD478,17/07/2022,Sunday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),9:30 PM,21,9:45 PM,15
+FD480,12/07/2022,Tuesday,B350,Clermont (CMQ / YCMT),Moranbah (MOV / YMRB),11:43 AM,11,11:58 AM,15
+FD489,5/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Gladstone (GLT / YGLA),7:46 AM,7,8:01 AM,15
+FD543,6/07/2022,Wednesday,PC12,Glendambo (YGLD),Kingoonya (YKGA),1:22 PM,13,1:37 PM,15
+FD248,13/07/2022,Wednesday,BE20,Menindee (YMED),Broken Hill (BHQ / YBHI),2:07 PM,14,2:23 PM,16
+FD427,16/07/2022,Saturday,B350,Kingaroy (KGY / YKRY),Wellcamp Airport (WTB / YBWW),2:57 PM,14,3:13 PM,16
+FD530,15/07/2022,Friday,PC12,Wilpena Pound (YHAW),Booleroo Centre (YBOC),4:04 PM,16,4:20 PM,16
+FD534,16/07/2022,Saturday,PC12,Whyalla (WYA / YWHA),Hubert Wilkings Airstrip (YJST),12:31 PM,12,12:47 PM,16
+FD538,16/07/2022,Saturday,PC12,Whyalla (WYA / YWHA),Hubert Wilkings Airstrip (YJST),12:31 PM,12,12:47 PM,16
+FD596,7/07/2022,Thursday,PC12,Naracoorte (NAC / YNRC),Mount Gambier (MGB / YMTG),10:15 AM,10,10:31 AM,16
+FD609,12/07/2022,Tuesday,PC12,Beagle Bay Community (YBGB),Lombadina (YLBD),11:16 AM,11,11:32 AM,16
+FD609,5/07/2022,Tuesday,PC12,Lagrange Bay (YLGB),Broome Int'l (BME / YBRM),1:42 PM,13,1:58 PM,16
+FD623,15/07/2022,Friday,PC12,Lagrange Bay (YLGB),Broome Int'l (BME / YBRM),6:19 PM,18,6:35 PM,16
+FD874,14/07/2022,Thursday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Bathurst Island (BRT / YBTI),5:47 PM,17,6:03 PM,16
+FD425,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),9:21 PM,21,9:38 PM,17
+FD425,9/07/2022,Saturday,BE20,Gayndah (GAH / YGAY),Bundaberg (BDB / YBUD),3:01 PM,15,3:18 PM,17
+FD480,12/07/2022,Tuesday,B350,Cloncurry (CNJ / YCCY),Mount Isa (ISA / YBMA),6:08 PM,18,6:25 PM,17
+FD530,15/07/2022,Friday,PC12,Port Augusta (PUG / YPAG),Port Pirie (PPI / YPIR),10:47 AM,10,11:04 AM,17
+FD530,4/07/2022,Monday,PC12,Yorketown (YYOR),Adelaide Int'l (ADL / YPAD),2:26 AM,2,2:43 AM,17
+FD534,7/07/2022,Thursday,PC12,Naracoorte (NAC / YNRC),Mount Gambier (MGB / YMTG),5:33 PM,17,5:50 PM,17
+FD602,5/07/2022,Tuesday,PC12,Laverton (LVO / YLTN),Leonora (LNO / YLEO),3:09 PM,15,3:26 PM,17
+FD607,12/07/2022,Tuesday,PC12,Lagrange Bay (YLGB),Broome Int'l (BME / YBRM),4:47 PM,16,5:04 PM,17
+FD629,16/07/2022,Saturday,PC12,Ginbata (GBW / YGIA),Dave Forest (KFE / YFDF),12:26 AM,0,12:43 AM,17
+FD416,17/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Cloncurry (CNJ / YCCY),6:54 PM,18,7:12 PM,18
+FD425,10/07/2022,Sunday,BE20,Gayndah (GAH / YGAY),Bundaberg (BDB / YBUD),3:06 PM,15,3:24 PM,18
+FD425,11/07/2022,Monday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),9:21 AM,9,9:39 AM,18
+FD427,16/07/2022,Saturday,B350,Kingaroy (KGY / YKRY),Wellcamp Airport (WTB / YBWW),10:09 PM,22,10:27 PM,18
+FD467,6/07/2022,Wednesday,BE20,Maroochydore/Sunshine Coast (MCY / YBSU),Brisbane (BNE / YBBN),5:16 PM,17,5:34 PM,18
+FD480,14/07/2022,Thursday,B350,Mackay (MKY / YBMK),Proserpine / Whitsunday Coast (PPP / YBPN),1:02 PM,13,1:20 PM,18
+FD493,10/07/2022,Sunday,BE20,Toowoomba (YTWB),Kingaroy (KGY / YKRY),11:21 PM,23,11:39 PM,18
+FD543,6/07/2022,Wednesday,PC12,Kingoonya (YKGA),Bulgunnia (YBUL),3:43 PM,15,4:01 PM,18
+FD580,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Yorketown (YYOR),3:08 PM,15,3:26 PM,18
+FD856,15/07/2022,Friday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),4:34 PM,16,4:52 PM,18
+FD248,13/07/2022,Wednesday,BE20,Broken Hill (BHQ / YBHI),Menindee (YMED),1:02 PM,13,1:21 PM,19
+FD416,16/07/2022,Saturday,BE20,Burketown (BUC / YBKT),Doomadgee (DMD / YDMG),9:21 PM,21,9:40 PM,19
+FD416,10/07/2022,Sunday,BE20,Cloncurry (CNJ / YCCY),Mount Isa (ISA / YBMA),5:29 PM,17,5:48 PM,19
+FD423,17/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Charters Towers (CXT / YCHT),10:12 PM,22,10:31 PM,19
+FD425,14/07/2022,Thursday,BE20,Gayndah (GAH / YGAY),Bundaberg (BDB / YBUD),2:27 PM,14,2:46 PM,19
+FD425,10/07/2022,Sunday,BE20,Maroochydore/Sunshine Coast (MCY / YBSU),Brisbane (BNE / YBBN),10:07 PM,22,10:26 PM,19
+FD425,6/07/2022,Wednesday,BE20,Monto (YMTO),Bundaberg (BDB / YBUD),3:06 PM,15,3:25 PM,19
+FD467,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Toowoomba (YTWB),12:19 PM,12,12:38 PM,19
+FD478,6/07/2022,Wednesday,BE20,Monto (YMTO),Bundaberg (BDB / YBUD),3:06 PM,15,3:25 PM,19
+FD530,17/07/2022,Sunday,PC12,Port Augusta (PUG / YPAG),Port Pirie (PPI / YPIR),3:55 PM,15,4:14 PM,19
+FD534,17/07/2022,Sunday,PC12,Port Augusta (PUG / YPAG),Port Pirie (PPI / YPIR),3:55 PM,15,4:14 PM,19
+FD609,12/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Beagle Bay Community (YBGB),9:59 AM,9,10:18 AM,19
+FD874,5/07/2022,Tuesday,PC12,Garden Point (GPN / YGPT),Darwin Int'l / RAAF (DRW / YPDN),9:07 AM,9,9:26 AM,19
+FD416,11/07/2022,Monday,BE20,Cloncurry (CNJ / YCCY),Mount Isa (ISA / YBMA),2:07 PM,14,2:27 PM,20
+FD416,10/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Cloncurry (CNJ / YCCY),1:18 AM,1,1:38 AM,20
+FD425,15/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Gayndah (GAH / YGAY),8:21 AM,8,8:41 AM,20
+FD427,17/07/2022,Sunday,B350,Goondiwindi (GOO / YGDI),Wellcamp Airport (WTB / YBWW),1:36 AM,1,1:56 AM,20
+FD467,13/07/2022,Wednesday,BE20,Monto (YMTO),Bundaberg (BDB / YBUD),1:04 PM,13,1:24 PM,20
+FD467,15/07/2022,Friday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),4:24 PM,16,4:44 PM,20
+FD493,11/07/2022,Monday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),12:09 AM,0,12:29 AM,20
+FD493,13/07/2022,Wednesday,BE20,Toowoomba (YTWB),Warwick (WAZ / YWCK),11:23 PM,23,11:43 PM,20
+FD534,11/07/2022,Monday,PC12,Port Pirie (PPI / YPIR),Kadina (YKDI),7:56 PM,19,8:16 PM,20
+FD543,16/07/2022,Saturday,PC12,Cadney Hs (YCDH),Oodnadatta (YOOD),5:10 PM,17,5:30 PM,20
+FD580,18/07/2022,Monday,PC12,Kingscote (KGC / YKSC),Adelaide Int'l (ADL / YPAD),8:45 PM,20,9:05 PM,20
+FD596,10/07/2022,Sunday,PC12,Maitland (YMLD),Adelaide Int'l (ADL / YPAD),6:38 PM,18,6:58 PM,20
+FD630J,15/07/2022,Friday,PC24,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),5:35 PM,17,5:55 PM,20
+FD425,9/07/2022,Saturday,BE20,Hervey Bay (HVB / YHBA),Gayndah (GAH / YGAY),2:25 PM,14,2:46 PM,21
+FD425,17/07/2022,Sunday,BE20,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),11:00 PM,23,11:21 PM,21
+FD427,16/07/2022,Saturday,B350,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),4:09 PM,16,4:30 PM,21
+FD456,4/07/2022,Monday,BE20,Chinchilla (CCL / YCCA),Wellcamp Airport (WTB / YBWW),6:37 PM,18,6:58 PM,21
+FD467,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Toowoomba (YTWB),9:20 AM,9,9:41 AM,21
+FD467,16/07/2022,Saturday,BE20,Dirranbandi (DRN / YDBI),Saint George (SGO / YSGE),5:17 PM,17,5:38 PM,21
+FD489,5/07/2022,Tuesday,BE20,Gladstone (GLT / YGLA),Rockhampton (ROK / YBRK),10:27 AM,10,10:48 AM,21
+FD493,17/07/2022,Sunday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),11:05 AM,11,11:26 AM,21
+FD534,10/07/2022,Sunday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),10:37 PM,22,10:58 PM,21
+FD580,10/07/2022,Sunday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),10:37 PM,22,10:58 PM,21
+AM273,7/07/2022,Thursday,B350,Moruya (MYA / YMRY),Merimbula (MIM / YMER),11:17 PM,23,11:39 PM,22
+FD425,15/07/2022,Friday,BE20,Gayndah (GAH / YGAY),Bundaberg (BDB / YBUD),9:27 AM,9,9:49 AM,22
+FD425,11/07/2022,Monday,BE20,Maroochydore/Sunshine Coast (MCY / YBSU),Wondai (WDI / YWND),12:03 PM,12,12:25 PM,22
+FD456,7/07/2022,Thursday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),4:28 PM,16,4:50 PM,22
+FD478,14/07/2022,Thursday,BE20,Moura (YMOU),Rockhampton (ROK / YBRK),4:30 PM,16,4:52 PM,22
+FD493,14/07/2022,Thursday,BE20,Kingaroy (KGY / YKRY),Toowoomba (YTWB),11:42 PM,23,12:04 AM,22
+FD493,13/07/2022,Wednesday,BE20,Windorah (WNR / YWDH),Yaraka (YYKA),7:11 AM,7,7:33 AM,22
+FD493,13/07/2022,Wednesday,BE20,Yaraka (YYKA),Stonehenge (YSTO),1:18 PM,13,1:40 PM,22
+FD534,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Kingscote (KGC / YKSC),1:20 AM,1,1:42 AM,22
+FD596,8/07/2022,Friday,PC12,Kingscote (KGC / YKSC),Adelaide Int'l (ADL / YPAD),1:20 AM,1,1:42 AM,22
+FD874,12/07/2022,Tuesday,PC12,Snake Bay (SNB / YSNK),Darwin Int'l / RAAF (DRW / YPDN),4:58 PM,16,5:20 PM,22
+FD416,5/07/2022,Tuesday,BE20,Birdsville (BVI / YBDV),Bedourie (BEU / YBIE),4:25 PM,16,4:48 PM,23
+FD416,17/07/2022,Sunday,BE20,Cloncurry (CNJ / YCCY),Mount Isa (ISA / YBMA),8:59 PM,20,9:22 PM,23
+FD425,14/07/2022,Thursday,BE20,Moura (YMOU),Rockhampton (ROK / YBRK),9:24 AM,9,9:47 AM,23
+FD427,10/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),4:54 PM,16,5:17 PM,23
+FD456,7/07/2022,Thursday,BE20,Miles Airport (WLE / YMLS),Kingaroy (KGY / YKRY),3:35 PM,15,3:58 PM,23
+FD456,4/07/2022,Monday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),1:20 AM,1,1:43 AM,23
+FD456,8/07/2022,Friday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),5:15 PM,17,5:38 PM,23
+FD467,16/07/2022,Saturday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),7:34 PM,19,7:57 PM,23
+FD480,12/07/2022,Tuesday,B350,Moranbah (MOV / YMRB),Mackay (MKY / YBMK),12:14 PM,12,12:37 PM,23
+FD493,9/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Toowoomba (YTWB),1:09 AM,1,1:32 AM,23
+FD493,10/07/2022,Sunday,BE20,Texas (YTEX),Toowoomba (YTWB),12:34 PM,12,12:57 PM,23
+FD530,17/07/2022,Sunday,PC12,Whyalla (WYA / YWHA),Adelaide Int'l (ADL / YPAD),10:00 PM,22,10:23 PM,23
+FD534,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Kadina (YKDI),9:15 PM,21,9:38 PM,23
+FD534,12/07/2022,Tuesday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),9:07 PM,21,9:30 PM,23
+FD534,13/07/2022,Wednesday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),11:00 PM,23,11:23 PM,23
+FD534,14/07/2022,Thursday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),10:10 PM,22,10:33 PM,23
+FD534,15/07/2022,Friday,PC12,Kingscote (KGC / YKSC),Adelaide Int'l (ADL / YPAD),2:24 AM,2,2:47 AM,23
+FD534,10/07/2022,Sunday,PC12,Tumby Bay (YTBB),Kadina (YKDI),9:30 PM,21,9:53 PM,23
+FD534,17/07/2022,Sunday,PC12,Whyalla (WYA / YWHA),Adelaide Int'l (ADL / YPAD),10:00 PM,22,10:23 PM,23
+FD543,12/07/2022,Tuesday,PC12,Marla (YALA),Cadney Hs (YCDH),11:39 AM,11,12:02 PM,23
+FD580,10/07/2022,Sunday,PC12,Tumby Bay (YTBB),Kadina (YKDI),9:30 PM,21,9:53 PM,23
+FD596,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Maitland (YMLD),5:27 PM,17,5:50 PM,23
+FD596,7/07/2022,Thursday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),1:15 AM,1,1:38 AM,23
+FD602,11/07/2022,Monday,PC12,Merredin (YMDN),Bruce Rock (YBRO),11:10 AM,11,11:33 AM,23
+FD608,17/07/2022,Sunday,PC12,Solomon (SLJ / YSOL),Port Hedland Int'l (PHE / YPPD),9:30 PM,21,9:53 PM,23
+FD617,4/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Jandakot (JAD / YPJT),9:13 PM,21,9:36 PM,23
+FD248,5/07/2022,Tuesday,BE20,Broken Hill (BHQ / YBHI),Menindee (YMED),12:57 PM,12,1:21 PM,24
+FD416,10/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Cloncurry (CNJ / YCCY),4:34 PM,16,4:58 PM,24
+FD416,11/07/2022,Monday,BE20,Mount Isa (ISA / YBMA),Cloncurry (CNJ / YCCY),12:03 PM,12,12:27 PM,24
+FD423,13/07/2022,Wednesday,B350,Moranbah (MOV / YMRB),Mackay (MKY / YBMK),9:10 PM,21,9:34 PM,24
+FD425,13/07/2022,Wednesday,BE20,Bundaberg (BDB / YBUD),Monto (YMTO),8:07 AM,8,8:31 AM,24
+FD427,13/07/2022,Wednesday,B350,Gladstone (GLT / YGLA),Bundaberg (BDB / YBUD),2:26 PM,14,2:50 PM,24
+FD427,11/07/2022,Monday,B350,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),2:28 PM,14,2:52 PM,24
+FD480,8/07/2022,Friday,B350,Bowen (ZBO / YBWN),Mackay (MKY / YBMK),4:49 PM,16,5:13 PM,24
+FD493,10/07/2022,Sunday,BE20,Toowoomba (YTWB),Texas (YTEX),11:49 AM,11,12:13 PM,24
+FD534,10/07/2022,Sunday,PC12,Clare Valley (YCVA),Adelaide Int'l (ADL / YPAD),12:51 PM,12,1:15 PM,24
+FD534,13/07/2022,Wednesday,PC12,Mount Gambier (MGB / YMTG),Bordertown (YBOR),6:13 PM,18,6:37 PM,24
+FD538,18/07/2022,Monday,PC12,Millicent (MLR / YMCT),Bordertown (YBOR),12:53 PM,12,1:17 PM,24
+FD543,16/07/2022,Saturday,PC12,Oodnadatta (YOOD),Cadney Hs (YCDH),10:14 AM,10,10:38 AM,24
+FD629,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Bunbury (BUY / YBUN),2:02 AM,2,2:26 AM,24
+FD853,12/07/2022,Tuesday,PC12,Brunette Downs (YBRU),Alexandria Stn (AXL / YALX),1:59 PM,13,2:23 PM,24
+AM273,8/07/2022,Friday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Port Macquarie (PQQ / YPMQ),11:02 AM,11,11:27 AM,25
+FD416,10/07/2022,Sunday,BE20,Cloncurry (CNJ / YCCY),Mount Isa (ISA / YBMA),2:12 AM,2,2:37 AM,25
+FD423,10/07/2022,Sunday,B350,Moranbah (MOV / YMRB),Mackay (MKY / YBMK),10:13 PM,22,10:38 PM,25
+FD427,14/07/2022,Thursday,B350,Brisbane (BNE / YBBN),Wellcamp Airport (WTB / YBWW),11:55 AM,11,12:20 PM,25
+FD456,4/07/2022,Monday,BE20,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),7:40 PM,19,8:05 PM,25
+FD467,11/07/2022,Monday,BE20,Toowoomba (YTWB),Chinchilla (CCL / YCCA),4:31 PM,16,4:56 PM,25
+FD478,17/07/2022,Sunday,BE20,Moura (YMOU),Rockhampton (ROK / YBRK),3:55 PM,15,4:20 PM,25
+FD489,7/07/2022,Thursday,BE20,Blackwater (BLT / YBTR),Rockhampton (ROK / YBRK),1:40 AM,1,2:05 AM,25
+FD534,15/07/2022,Friday,PC12,Pinaroo (YPNN),Renmark (RMK / YREN),9:23 AM,9,9:48 AM,25
+FD543,12/07/2022,Tuesday,PC12,Cadney Hs (YCDH),Marla (YALA),3:50 PM,15,4:15 PM,25
+FD580,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Waikerie (YWKI),12:33 AM,0,12:58 AM,25
+FD596,17/07/2022,Sunday,PC12,Yorketown (YYOR),Adelaide Int'l (ADL / YPAD),8:27 PM,20,8:52 PM,25
+FD619,7/07/2022,Thursday,PC12,Meekatharra (MKR / YMEK),Wiluna (WUN / YWLU),9:51 AM,9,10:16 AM,25
+FD874,5/07/2022,Tuesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Snake Bay (SNB / YSNK),8:12 AM,8,8:37 AM,25
+FD874,6/07/2022,Wednesday,PC12,Snake Bay (SNB / YSNK),Darwin Int'l / RAAF (DRW / YPDN),8:46 PM,20,9:11 PM,25
+AM273,5/07/2022,Tuesday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),2:11 PM,14,2:37 PM,26
+AM273,10/07/2022,Sunday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),12:44 AM,0,1:10 AM,26
+AM273,12/07/2022,Tuesday,B350,Port Macquarie (PQQ / YPMQ),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),4:12 PM,16,4:38 PM,26
+FD213,12/07/2022,Tuesday,BE20,Dubbo (DBO / YSDU),Mudgee (DGE / YMDG),11:50 AM,11,12:16 PM,26
+FD425,10/07/2022,Sunday,BE20,Hervey Bay (HVB / YHBA),Maroochydore/Sunshine Coast (MCY / YBSU),9:17 PM,21,9:43 PM,26
+FD427,12/07/2022,Tuesday,B350,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),7:12 PM,19,7:38 PM,26
+FD427,12/07/2022,Tuesday,B350,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),8:16 PM,20,8:42 PM,26
+FD467,11/07/2022,Monday,BE20,Chinchilla (CCL / YCCA),Toowoomba (YTWB),5:18 PM,17,5:44 PM,26
+FD478,14/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Moura (YMOU),3:29 PM,15,3:55 PM,26
+FD480,10/07/2022,Sunday,B350,Cooktown (CTN / YCKN),Cairns Int'l (CNS / YBCS),3:24 PM,15,3:50 PM,26
+FD480,8/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Bowen (ZBO / YBWN),2:35 PM,14,3:01 PM,26
+FD480,7/07/2022,Thursday,B350,Winton (WIN / YWTN),Hughenden (HGD / YHUG),9:22 AM,9,9:48 AM,26
+FD534,7/07/2022,Thursday,PC12,Yorketown (YYOR),Adelaide Int'l (ADL / YPAD),8:04 PM,20,8:30 PM,26
+FD580,13/07/2022,Wednesday,PC12,Waikerie (YWKI),Adelaide Int'l (ADL / YPAD),1:56 AM,1,2:22 AM,26
+FD596,7/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Kingscote (KGC / YKSC),12:11 AM,0,12:37 AM,26
+FD601,7/07/2022,Thursday,PC12,Narrogin (YNRG),Jandakot (JAD / YPJT),3:01 AM,3,3:27 AM,26
+FD602,10/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Busselton Regional (BQB / YBLN),3:29 AM,3,3:55 AM,26
+FD602,6/07/2022,Wednesday,PC12,Warburton (YWBR),Blackstone Range (YBSR),1:30 PM,13,1:56 PM,26
+FD607,4/07/2022,Monday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),12:02 AM,0,12:28 AM,26
+FD607,8/07/2022,Friday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),8:56 PM,20,9:22 PM,26
+FD607,8/07/2022,Friday,PC12,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),11:21 PM,23,11:47 PM,26
+FD617,4/07/2022,Monday,PC12,Wiluna (WUN / YWLU),Meekatharra (MKR / YMEK),6:28 PM,18,6:54 PM,26
+FD874,12/07/2022,Tuesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Garden Point (GPN / YGPT),3:37 PM,15,4:03 PM,26
+AM273,6/07/2022,Wednesday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),2:44 PM,14,3:11 PM,27
+FD416,8/07/2022,Friday,BE20,Boulia (BQL / YBOU),Roxborough Downs (YROX),4:18 PM,16,4:45 PM,27
+FD416,6/07/2022,Wednesday,BE20,Osborne Mine (YOSB),Mount Isa (ISA / YBMA),8:14 AM,8,8:41 AM,27
+FD416,16/07/2022,Saturday,BE20,Osborne Mine (YOSB),Mount Isa (ISA / YBMA),3:52 PM,15,4:19 PM,27
+FD425,12/07/2022,Tuesday,BE20,Bundaberg (BDB / YBUD),Gladstone (GLT / YGLA),7:53 AM,7,8:20 AM,27
+FD425,9/07/2022,Saturday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),11:38 PM,23,12:05 AM,27
+FD425,11/07/2022,Monday,BE20,Toowoomba (YTWB),Maroochydore/Sunshine Coast (MCY / YBSU),10:22 AM,10,10:49 AM,27
+FD427,16/07/2022,Saturday,B350,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),1:52 PM,13,2:19 PM,27
+FD427,11/07/2022,Monday,B350,Goondiwindi (GOO / YGDI),Wellcamp Airport (WTB / YBWW),11:11 AM,11,11:38 AM,27
+FD449,11/07/2022,Monday,B350,Rockhampton (ROK / YBRK),Theodore (YTDR),7:58 AM,7,8:25 AM,27
+FD449,15/07/2022,Friday,B350,Theodore (YTDR),Rockhampton (ROK / YBRK),1:48 PM,13,2:15 PM,27
+FD456,7/07/2022,Thursday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),5:54 PM,17,6:21 PM,27
+FD467,9/07/2022,Saturday,BE20,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),3:07 PM,15,3:34 PM,27
+FD493,17/07/2022,Sunday,BE20,Cunnamulla (CMA / YCMU),Charleville (CTL / YBCV),2:46 PM,14,3:13 PM,27
+FD534,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Clare Valley (YCVA),9:34 AM,9,10:01 AM,27
+FD534,16/07/2022,Saturday,PC12,Wudinna (YWUD),Port Lincoln (PLO / YPLC),5:32 PM,17,5:59 PM,27
+FD543,12/07/2022,Tuesday,PC12,Marla (YALA),Oodnadatta (YOOD),4:24 PM,16,4:51 PM,27
+FD601,5/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Narrogin (YNRG),11:03 AM,11,11:30 AM,27
+FD617,7/07/2022,Thursday,PC12,Bunbury (BUY / YBUN),Jandakot (JAD / YPJT),7:45 AM,7,8:12 AM,27
+FD617,8/07/2022,Friday,PC12,Mount James (YMJE),Paraburdoo (YPBO),11:11 PM,23,11:38 PM,27
+FD619,15/07/2022,Friday,PC12,Wiluna (WUN / YWLU),Meekatharra (MKR / YMEK),8:07 PM,20,8:34 PM,27
+FD623,15/07/2022,Friday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),8:45 PM,20,9:12 PM,27
+FD623,15/07/2022,Friday,PC12,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),11:14 PM,23,11:41 PM,27
+FD629,16/07/2022,Saturday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),5:51 PM,17,6:18 PM,27
+FD629,18/07/2022,Monday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),12:36 PM,12,1:03 PM,27
+FD629,5/07/2022,Tuesday,PC12,Leinster (LER / YLST),Wiluna (WUN / YWLU),6:42 PM,18,7:09 PM,27
+FD849,13/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),11:19 AM,11,11:46 AM,27
+FD856,13/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),11:19 AM,11,11:46 AM,27
+AM273,7/07/2022,Thursday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),11:01 AM,11,11:29 AM,28
+AM273,10/07/2022,Sunday,B350,Sydney (SYD / YSSY),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),9:15 PM,21,9:43 PM,28
+FD213,8/07/2022,Friday,BE20,Dubbo (DBO / YSDU),Coonamble (CNB / YCNM),2:00 AM,2,2:28 AM,28
+FD423,12/07/2022,Tuesday,B350,Cooktown (CTN / YCKN),Cairns Int'l (CNS / YBCS),10:31 PM,22,10:59 PM,28
+FD425,9/07/2022,Saturday,BE20,Bundaberg (BDB / YBUD),Gladstone (GLT / YGLA),8:32 AM,8,9:00 AM,28
+FD427,16/07/2022,Saturday,B350,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),7:51 PM,19,8:19 PM,28
+FD427,14/07/2022,Thursday,B350,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),5:30 PM,17,5:58 PM,28
+FD427,17/07/2022,Sunday,B350,Wellcamp Airport (WTB / YBWW),Goondiwindi (GOO / YGDI),12:41 AM,0,1:09 AM,28
+FD449,15/07/2022,Friday,B350,Dysart (DYA / YDYS),Mackay (MKY / YBMK),5:11 PM,17,5:39 PM,28
+FD456,6/07/2022,Wednesday,BE20,Goondiwindi (GOO / YGDI),Saint George (SGO / YSGE),9:14 PM,21,9:42 PM,28
+FD456,15/07/2022,Friday,BE20,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),10:13 AM,10,10:41 AM,28
+FD456,6/07/2022,Wednesday,BE20,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),11:28 PM,23,11:56 PM,28
+FD467,11/07/2022,Monday,BE20,Goondiwindi (GOO / YGDI),Miles Airport (WLE / YMLS),12:54 PM,12,1:22 PM,28
+FD478,17/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Thangool (THG / YTNG),8:08 AM,8,8:36 AM,28
+FD480,7/07/2022,Thursday,B350,Dysart (DYA / YDYS),Mackay (MKY / YBMK),2:32 PM,14,3:00 PM,28
+FD493,9/07/2022,Saturday,BE20,Cunnamulla (CMA / YCMU),Charleville (CTL / YBCV),3:49 PM,15,4:17 PM,28
+FD534,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Waikerie (YWKI),10:40 PM,22,11:08 PM,28
+FD601,5/07/2022,Tuesday,PC12,Narrogin (YNRG),Jandakot (JAD / YPJT),12:12 PM,12,12:40 PM,28
+FD602,10/07/2022,Sunday,PC12,Bunbury (BUY / YBUN),Jandakot (JAD / YPJT),5:09 PM,17,5:37 PM,28
+FD607,18/07/2022,Monday,PC12,Meekatharra (MKR / YMEK),Mount Keith (WME / YMNE),2:13 AM,2,2:41 AM,28
+FD608,7/07/2022,Thursday,PC12,Carnarvon (CVQ / YCAR),Shark Bay (MJK / YSHK),4:14 AM,4,4:42 AM,28
+FD609,5/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),9:14 AM,9,9:42 AM,28
+FD617,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Wyalkatchem (YWKM),6:59 PM,18,7:27 PM,28
+FD629,14/07/2022,Thursday,PC12,Bunbury (BUY / YBUN),Jandakot (JAD / YPJT),4:42 AM,4,5:10 AM,28
+FD629,5/07/2022,Tuesday,PC12,Wiluna (WUN / YWLU),Meekatharra (MKR / YMEK),7:32 PM,19,8:00 PM,28
+AM273,12/07/2022,Tuesday,B350,Moree (MRZ / YMOR),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),4:10 PM,16,4:39 PM,29
+AM273,18/07/2022,Monday,B350,Moree (MRZ / YMOR),Tamworth (TMW / YSTW),4:59 PM,16,5:28 PM,29
+AM273,11/07/2022,Monday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),5:25 PM,17,5:54 PM,29
+AM273,8/07/2022,Friday,B350,Port Macquarie (PQQ / YPMQ),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),12:03 PM,12,12:32 PM,29
+FD416,17/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Alpurrurulam (YALP),1:21 AM,1,1:50 AM,29
+FD425,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),9:09 PM,21,9:38 PM,29
+FD427,17/07/2022,Sunday,B350,Wellcamp Airport (WTB / YBWW),Brisbane (BNE / YBBN),2:19 AM,2,2:48 AM,29
+FD449,11/07/2022,Monday,B350,Theodore (YTDR),Rockhampton (ROK / YBRK),8:54 AM,8,9:23 AM,29
+FD467,9/07/2022,Saturday,BE20,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),6:53 PM,18,7:22 PM,29
+FD467,16/07/2022,Saturday,BE20,Toowoomba (YTWB),Goondiwindi (GOO / YGDI),3:27 PM,15,3:56 PM,29
+FD534,11/07/2022,Monday,PC12,Kadina (YKDI),Adelaide Int'l (ADL / YPAD),8:54 PM,20,9:23 PM,29
+FD534,14/07/2022,Thursday,PC12,Port Lincoln (PLO / YPLC),Kadina (YKDI),9:11 PM,21,9:40 PM,29
+FD580,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Renmark (RMK / YREN),5:07 AM,5,5:36 AM,29
+FD596,17/07/2022,Sunday,PC12,Cowell (YCWL),Yorketown (YYOR),7:04 PM,19,7:33 PM,29
+FD602,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Busselton Regional (BQB / YBLN),1:08 PM,13,1:37 PM,29
+FD617,9/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Narrogin (YNRG),4:14 PM,16,4:43 PM,29
+FD629,16/07/2022,Saturday,PC12,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),7:18 PM,19,7:47 PM,29
+FD629,18/07/2022,Monday,PC12,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),1:38 PM,13,2:07 PM,29
+AM273,10/07/2022,Sunday,B350,Moree (MRZ / YMOR),Tamworth (TMW / YSTW),2:48 PM,14,3:18 PM,30
+FD416,17/07/2022,Sunday,BE20,Alpurrurulam (YALP),Mount Isa (ISA / YBMA),2:44 AM,2,3:14 AM,30
+FD416,11/07/2022,Monday,BE20,Mount Isa (ISA / YBMA),Julia Creek (JCK / YJLC),7:23 PM,19,7:53 PM,30
+FD425,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),3:50 PM,15,4:20 PM,30
+FD425,14/07/2022,Thursday,BE20,Maroochydore/Sunshine Coast (MCY / YBSU),Gayndah (GAH / YGAY),1:35 PM,13,2:05 PM,30
+FD449,10/07/2022,Sunday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),3:02 AM,3,3:32 AM,30
+FD467,9/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),5:46 PM,17,6:16 PM,30
+FD478,6/07/2022,Wednesday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),8:52 AM,8,9:22 AM,30
+FD489,15/07/2022,Friday,BE20,Cooktown (CTN / YCKN),Cairns Int'l (CNS / YBCS),10:57 PM,22,11:27 PM,30
+FD534,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Peterborough (YPTB),2:32 PM,14,3:02 PM,30
+FD534,16/07/2022,Saturday,PC12,Kimba (YIMB),Port Lincoln (PLO / YPLC),7:29 PM,19,7:59 PM,30
+FD534,14/07/2022,Thursday,PC12,Kingscote (KGC / YKSC),Adelaide Int'l (ADL / YPAD),12:56 PM,12,1:26 PM,30
+FD534,11/07/2022,Monday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),6:41 AM,6,7:11 AM,30
+FD602,10/07/2022,Sunday,PC12,Busselton Regional (BQB / YBLN),Jandakot (JAD / YPJT),4:39 AM,4,5:09 AM,30
+FD607,6/07/2022,Wednesday,PC12,One Arm Point (YOAP),Broome Int'l (BME / YBRM),5:39 PM,17,6:09 PM,30
+FD609,15/07/2022,Friday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),6:18 PM,18,6:48 PM,30
+AM273,9/07/2022,Saturday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),6:10 PM,18,6:41 PM,31
+AM273,9/07/2022,Saturday,B350,Tamworth (TMW / YSTW),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),4:56 PM,16,5:27 PM,31
+AM273,18/07/2022,Monday,B350,Tamworth (TMW / YSTW),Coffs Harbour (YCFS),6:17 PM,18,6:48 PM,31
+FD248,5/07/2022,Tuesday,BE20,White Cliffs (YWHC),Broken Hill (BHQ / YBHI),2:41 PM,14,3:12 PM,31
+FD456,12/07/2022,Tuesday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),12:50 PM,12,1:21 PM,31
+FD467,9/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Kingaroy (KGY / YKRY),1:04 PM,13,1:35 PM,31
+FD467,16/07/2022,Saturday,BE20,Goondiwindi (GOO / YGDI),Dirranbandi (DRN / YDBI),4:18 PM,16,4:49 PM,31
+FD480,15/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Innisfail (YIFL),10:52 AM,10,11:23 AM,31
+FD534,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Port Pirie (PPI / YPIR),8:05 AM,8,8:36 AM,31
+FD596,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Port Pirie (PPI / YPIR),8:44 AM,8,9:15 AM,31
+FD596,14/07/2022,Thursday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),12:17 PM,12,12:48 PM,31
+FD607,9/07/2022,Saturday,PC12,Broome Int'l (BME / YBRM),Derby (DRB / YDBY),11:27 AM,11,11:58 AM,31
+FD608,15/07/2022,Friday,PC12,Solomon (SLJ / YSOL),Port Hedland Int'l (PHE / YPPD),1:25 PM,13,1:56 PM,31
+FD609,12/07/2022,Tuesday,PC12,Lombadina (YLBD),Broome Int'l (BME / YBRM),11:52 AM,11,12:23 PM,31
+AM273,12/07/2022,Tuesday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),12:14 PM,12,12:46 PM,32
+AM273,5/07/2022,Tuesday,B350,Port Macquarie (PQQ / YPMQ),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),1:10 PM,13,1:42 PM,32
+AM273,7/07/2022,Thursday,B350,Tamworth (TMW / YSTW),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),9:49 AM,9,10:21 AM,32
+AM273,11/07/2022,Monday,B350,Tamworth (TMW / YSTW),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),3:58 PM,15,4:30 PM,32
+FD211,18/07/2022,Monday,B350,Bourke (BRK / YBKE),Lightning Ridge (LHG / YLRD),3:27 PM,15,3:59 PM,32
+FD213,8/07/2022,Friday,BE20,Coonamble (CNB / YCNM),Dubbo (DBO / YSDU),3:05 AM,3,3:37 AM,32
+FD248,14/07/2022,Thursday,BE20,White Cliffs (YWHC),Broken Hill (BHQ / YBHI),7:51 PM,19,8:23 PM,32
+FD425,11/07/2022,Monday,BE20,Bundaberg (BDB / YBUD),Kingaroy (KGY / YKRY),8:19 AM,8,8:51 AM,32
+FD425,17/07/2022,Sunday,BE20,Maryborough (MBH / YMYB),Brisbane (BNE / YBBN),12:06 PM,12,12:38 PM,32
+FD449,7/07/2022,Thursday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),7:24 PM,19,7:56 PM,32
+FD456,10/07/2022,Sunday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),5:54 PM,17,6:26 PM,32
+FD467,11/07/2022,Monday,BE20,Miles Airport (WLE / YMLS),Toowoomba (YTWB),2:05 PM,14,2:37 PM,32
+FD467,11/07/2022,Monday,BE20,Toowoomba (YTWB),Brisbane (BNE / YBBN),6:15 PM,18,6:47 PM,32
+FD478,14/07/2022,Thursday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),12:54 PM,12,1:26 PM,32
+FD493,6/07/2022,Wednesday,BE20,Birdsville (BVI / YBDV),Birdsville (BVI / YBDV),12:53 PM,12,1:25 PM,32
+FD534,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Pirie (PPI / YPIR),5:12 AM,5,5:44 AM,32
+FD534,16/07/2022,Saturday,PC12,Whyalla (WYA / YWHA),Adelaide Int'l (ADL / YPAD),2:22 AM,2,2:54 AM,32
+FD602,11/07/2022,Monday,PC12,Busselton Regional (BQB / YBLN),Jandakot (JAD / YPJT),3:46 PM,15,4:18 PM,32
+FD602,3/07/2022,Sunday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Leonora (LNO / YLEO),10:11 PM,22,10:43 PM,32
+FD607,8/07/2022,Friday,PC12,One Arm Point (YOAP),Broome Int'l (BME / YBRM),6:04 PM,18,6:36 PM,32
+FD608,16/07/2022,Saturday,PC12,Port Hedland Int'l (PHE / YPPD),Warrawagine Stn (WRW / YWWG),5:22 PM,17,5:54 PM,32
+FD630J,17/07/2022,Sunday,PC24,Kalgoorlie-Boulder (KGI / YPKG),Esperance (EPR / YESP),2:43 PM,14,3:15 PM,32
+FD849,4/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Papunya (YPAY),7:17 PM,19,7:49 PM,32
+AM273,6/07/2022,Wednesday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),9:28 PM,21,10:01 PM,33
+FD211,18/07/2022,Monday,B350,Lightning Ridge (LHG / YLRD),Bourke (BRK / YBKE),9:11 AM,9,9:44 AM,33
+FD416,8/07/2022,Friday,BE20,Mornington Island (ONG / YMTI),Normanton (YNTN),9:51 PM,21,10:24 PM,33
+FD416,15/07/2022,Friday,BE20,Mount Isa (ISA / YBMA),Julia Creek (JCK / YJLC),9:08 PM,21,9:41 PM,33
+FD425,14/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),10:22 PM,22,10:55 PM,33
+FD425,5/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),11:55 AM,11,12:28 PM,33
+FD427,13/07/2022,Wednesday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),11:39 AM,11,12:12 PM,33
+FD427,15/07/2022,Friday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),11:29 AM,11,12:02 PM,33
+FD427,9/07/2022,Saturday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),11:37 AM,11,12:10 PM,33
+FD449,15/07/2022,Friday,B350,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),11:32 AM,11,12:05 PM,33
+FD467,6/07/2022,Wednesday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),2:01 PM,14,2:34 PM,33
+FD493,14/07/2022,Thursday,BE20,Miles Airport (WLE / YMLS),Toowoomba (YTWB),9:14 PM,21,9:47 PM,33
+FD493,8/07/2022,Friday,BE20,Yowah (YYWA),Charleville (CTL / YBCV),5:05 PM,17,5:38 PM,33
+FD534,9/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Renmark (RMK / YREN),11:40 AM,11,12:13 PM,33
+FD596,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Renmark (RMK / YREN),8:12 PM,20,8:45 PM,33
+FD602,16/07/2022,Saturday,PC12,Giles (YGLS),Warburton (YWBR),3:16 PM,15,3:49 PM,33
+FD602,6/07/2022,Wednesday,PC12,Leonora (LNO / YLEO),Kalgoorlie-Boulder (KGI / YPKG),5:14 PM,17,5:47 PM,33
+FD278,13/07/2022,Wednesday,BE20,Broken Hill (BHQ / YBHI),Wilcannia (WIO / YWCA),6:13 PM,18,6:47 PM,34
+FD425,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Maryborough (MBH / YMYB),11:07 AM,11,11:41 AM,34
+FD425,5/07/2022,Tuesday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),6:14 PM,18,6:48 PM,34
+FD425,9/07/2022,Saturday,BE20,Gladstone (GLT / YGLA),Hervey Bay (HVB / YHBA),9:16 AM,9,9:50 AM,34
+FD427,12/07/2022,Tuesday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),8:56 AM,8,9:30 AM,34
+FD427,13/07/2022,Wednesday,B350,Hervey Bay (HVB / YHBA),Gladstone (GLT / YGLA),1:28 PM,13,2:02 PM,34
+FD427,10/07/2022,Sunday,B350,Kingaroy (KGY / YKRY),Brisbane (BNE / YBBN),6:39 PM,18,7:13 PM,34
+FD449,14/07/2022,Thursday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),3:27 AM,3,4:01 AM,34
+FD456,16/07/2022,Saturday,BE20,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),4:46 PM,16,5:20 PM,34
+FD456,3/07/2022,Sunday,BE20,Goondiwindi (GOO / YGDI),Toowoomba (YTWB),11:00 PM,23,11:34 PM,34
+FD467,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),8:18 AM,8,8:52 AM,34
+FD534,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Pinaroo (YPNN),8:11 AM,8,8:45 AM,34
+FD596,6/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Renmark (RMK / YREN),3:51 AM,3,4:25 AM,34
+FD602,8/07/2022,Friday,PC12,Busselton Regional (BQB / YBLN),Jandakot (JAD / YPJT),5:24 PM,17,5:58 PM,34
+FD619,8/07/2022,Friday,PC12,Moora (YMRO),Jandakot (JAD / YPJT),4:55 PM,16,5:29 PM,34
+AM273,9/07/2022,Saturday,B350,Kempsey (KPS / YKMP),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),10:50 PM,22,11:25 PM,35
+AM273,5/07/2022,Tuesday,B350,Sydney (SYD / YSSY),Canberra Int'l (CBR / YSCB),4:31 PM,16,5:06 PM,35
+AM273,6/07/2022,Wednesday,B350,Tamworth (TMW / YSTW),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),8:07 PM,20,8:42 PM,35
+FD416,15/07/2022,Friday,BE20,Julia Creek (JCK / YJLC),Mount Isa (ISA / YBMA),10:24 PM,22,10:59 PM,35
+FD416,9/07/2022,Saturday,BE20,Mornington Island (ONG / YMTI),Normanton (YNTN),9:04 PM,21,9:39 PM,35
+FD416,8/07/2022,Friday,BE20,Roxborough Downs (YROX),Mount Isa (ISA / YBMA),4:54 PM,16,5:29 PM,35
+FD423,17/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Proserpine / Whitsunday Coast (PPP / YBPN),7:19 PM,19,7:54 PM,35
+FD425,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),9:57 AM,9,10:32 AM,35
+FD425,16/07/2022,Saturday,BE20,Maryborough (MBH / YMYB),Brisbane (BNE / YBBN),1:51 PM,13,2:26 PM,35
+FD427,8/07/2022,Friday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),1:47 PM,13,2:22 PM,35
+FD427,13/07/2022,Wednesday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),8:06 AM,8,8:41 AM,35
+FD449,7/07/2022,Thursday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),10:18 PM,22,10:53 PM,35
+FD449,12/07/2022,Tuesday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),7:00 PM,19,7:35 PM,35
+FD449,15/07/2022,Friday,B350,Emerald (EMD / YEML),Theodore (YTDR),12:51 PM,12,1:26 PM,35
+FD449,15/07/2022,Friday,B350,Rockhampton (ROK / YBRK),Dysart (DYA / YDYS),4:06 PM,16,4:41 PM,35
+FD456,7/07/2022,Thursday,BE20,Wellcamp Airport (WTB / YBWW),Miles Airport (WLE / YMLS),1:25 PM,13,2:00 PM,35
+FD493,17/07/2022,Sunday,BE20,Charleville (CTL / YBCV),Roma (RMA / YROM),8:05 AM,8,8:40 AM,35
+FD493,13/07/2022,Wednesday,BE20,Saint George (SGO / YSGE),Taroom (XTO / YTAM),8:39 PM,20,9:14 PM,35
+FD530,3/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),12:24 AM,0,12:59 AM,35
+FD534,16/07/2022,Saturday,PC12,Olympic Dam (OLP / YOLD),Port Augusta (PUG / YPAG),12:09 AM,0,12:44 AM,35
+FD534,12/07/2022,Tuesday,PC12,Port Augusta (PUG / YPAG),Kadina (YKDI),7:27 PM,19,8:02 PM,35
+FD534,16/07/2022,Saturday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),2:45 PM,14,3:20 PM,35
+FD538,16/07/2022,Saturday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),2:45 PM,14,3:20 PM,35
+FD543,12/07/2022,Tuesday,PC12,Oodnadatta (YOOD),Marla (YALA),10:50 AM,10,11:25 AM,35
+FD580,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),12:17 PM,12,12:52 PM,35
+FD596,6/07/2022,Wednesday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),11:51 AM,11,12:26 PM,35
+FD602,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Merredin (YMDN),10:57 PM,22,11:32 PM,35
+FD602,3/07/2022,Sunday,PC12,Leonora (LNO / YLEO),Kalgoorlie-Boulder (KGI / YPKG),11:08 PM,23,11:43 PM,35
+FD602,7/07/2022,Thursday,PC12,Leonora (LNO / YLEO),Kalgoorlie-Boulder (KGI / YPKG),11:11 PM,23,11:46 PM,35
+FD617,9/07/2022,Saturday,PC12,Narrogin (YNRG),Jandakot (JAD / YPJT),6:54 PM,18,7:29 PM,35
+FD630J,12/07/2022,Tuesday,PC24,Karratha (KTA / YPKA),RAAF Learmonth (LEA / YPLM),8:39 AM,8,9:14 AM,35
+AM273,7/07/2022,Thursday,B350,Sydney (SYD / YSSY),Moruya (MYA / YMRY),9:17 PM,21,9:53 PM,36
+AM273,6/07/2022,Wednesday,B350,Tamworth (TMW / YSTW),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),1:25 PM,13,2:01 PM,36
+FD416,14/07/2022,Thursday,BE20,Boulia (BQL / YBOU),Mount Isa (ISA / YBMA),11:18 PM,23,11:54 PM,36
+FD416,17/07/2022,Sunday,BE20,Boulia (BQL / YBOU),Mount Isa (ISA / YBMA),2:03 PM,14,2:39 PM,36
+FD425,16/07/2022,Saturday,BE20,Gladstone (GLT / YGLA),Maryborough (MBH / YMYB),12:19 PM,12,12:55 PM,36
+FD425,11/07/2022,Monday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:34 PM,21,10:10 PM,36
+FD449,11/07/2022,Monday,B350,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),10:33 AM,10,11:09 AM,36
+FD456,7/07/2022,Thursday,BE20,Goondiwindi (GOO / YGDI),Wellcamp Airport (WTB / YBWW),12:00 PM,12,12:36 PM,36
+FD467,14/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),7:56 PM,19,8:32 PM,36
+FD467,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),11:10 AM,11,11:46 AM,36
+FD493,14/07/2022,Thursday,BE20,Warwick (WAZ / YWCK),Brisbane (BNE / YBBN),12:28 AM,0,1:04 AM,36
+FD530,4/07/2022,Monday,PC12,Whyalla (WYA / YWHA),Yorketown (YYOR),1:22 AM,1,1:58 AM,36
+FD534,12/07/2022,Tuesday,PC12,Peterborough (YPTB),Adelaide Int'l (ADL / YPAD),3:51 PM,15,4:27 PM,36
+FD534,13/07/2022,Wednesday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),10:42 AM,10,11:18 AM,36
+FD534,15/07/2022,Friday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),8:14 PM,20,8:50 PM,36
+FD534,9/07/2022,Saturday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),4:08 PM,16,4:44 PM,36
+FD534,13/07/2022,Wednesday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),1:18 AM,1,1:54 AM,36
+FD580,8/07/2022,Friday,PC12,Whyalla (WYA / YWHA),Adelaide Int'l (ADL / YPAD),2:15 PM,14,2:51 PM,36
+FD596,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),3:44 PM,15,4:20 PM,36
+FD596,6/07/2022,Wednesday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),1:35 AM,1,2:11 AM,36
+FD602,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Manjimup (MJP / YMJM),7:02 PM,19,7:38 PM,36
+FD602,11/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Busselton Regional (BQB / YBLN),1:50 PM,13,2:26 PM,36
+FD602,5/07/2022,Tuesday,PC12,Leonora (LNO / YLEO),Kalgoorlie-Boulder (KGI / YPKG),3:55 PM,15,4:31 PM,36
+FD617,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Jurien Bay (YJUR),10:38 PM,22,11:14 PM,36
+FD617,6/07/2022,Wednesday,PC12,Jurien Bay (YJUR),Jandakot (JAD / YPJT),11:35 PM,23,12:11 AM,36
+FD629,16/07/2022,Saturday,PC12,Fitzroy Crossing (FIZ / YFTZ),Halls Creek (HCQ / YHLC),2:40 PM,14,3:16 PM,36
+AM273,7/07/2022,Thursday,B350,Canberra Int'l (CBR / YSCB),Sydney (SYD / YSSY),4:07 PM,16,4:44 PM,37
+AM273,12/07/2022,Tuesday,B350,Port Macquarie (PQQ / YPMQ),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),10:48 AM,10,11:25 AM,37
+AM273,7/07/2022,Thursday,B350,Sydney (SYD / YSSY),Canberra Int'l (CBR / YSCB),1:33 PM,13,2:10 PM,37
+AM273,10/07/2022,Sunday,B350,Tamworth (TMW / YSTW),Coffs Harbour (YCFS),4:01 PM,16,4:38 PM,37
+FD213,16/07/2022,Saturday,BE20,Walgett (WGE / YWLG),Dubbo (DBO / YSDU),1:14 PM,13,1:51 PM,37
+FD416,6/07/2022,Wednesday,BE20,Mount Isa (ISA / YBMA),Osborne Mine (YOSB),7:17 AM,7,7:54 AM,37
+FD425,14/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Maroochydore/Sunshine Coast (MCY / YBSU),12:28 PM,12,1:05 PM,37
+FD425,6/07/2022,Wednesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),10:06 AM,10,10:43 AM,37
+FD425,10/07/2022,Sunday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),11:00 AM,11,11:37 AM,37
+FD425,7/07/2022,Thursday,BE20,Maryborough (MBH / YMYB),Brisbane (BNE / YBBN),8:40 PM,20,9:17 PM,37
+FD425,11/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),2:28 PM,14,3:05 PM,37
+FD449,15/07/2022,Friday,B350,Emerald (EMD / YEML),Rockhampton (ROK / YBRK),1:56 AM,1,2:33 AM,37
+FD449,9/07/2022,Saturday,B350,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),7:40 PM,19,8:17 PM,37
+FD449,13/07/2022,Wednesday,B350,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),8:05 PM,20,8:42 PM,37
+FD456,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),1:20 AM,1,1:57 AM,37
+FD456,12/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),7:06 AM,7,7:43 AM,37
+FD467,12/07/2022,Tuesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),1:28 PM,13,2:05 PM,37
+FD478,4/07/2022,Monday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:42 PM,21,10:19 PM,37
+FD493,8/07/2022,Friday,BE20,Toowoomba (YTWB),Goondiwindi (GOO / YGDI),9:31 PM,21,10:08 PM,37
+FD534,10/07/2022,Sunday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),5:55 PM,17,6:32 PM,37
+FD534,16/07/2022,Saturday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),8:42 PM,20,9:19 PM,37
+FD543,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),3:28 PM,15,4:05 PM,37
+FD580,10/07/2022,Sunday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),5:55 PM,17,6:32 PM,37
+FD596,7/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),9:37 PM,21,10:14 PM,37
+FD596,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Kingston (YKIG),10:55 PM,22,11:32 PM,37
+FD596,18/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Cleve (CVC / YCEE),11:14 AM,11,11:51 AM,37
+FD596,7/07/2022,Thursday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),10:40 PM,22,11:17 PM,37
+FD596,13/07/2022,Wednesday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),9:16 PM,21,9:53 PM,37
+FD602,11/07/2022,Monday,PC12,Bruce Rock (YBRO),Jandakot (JAD / YPJT),11:34 AM,11,12:11 PM,37
+FD607,11/07/2022,Monday,PC12,One Arm Point (YOAP),Broome Int'l (BME / YBRM),6:59 PM,18,7:36 PM,37
+FD609,5/07/2022,Tuesday,PC12,Derby (DRB / YDBY),Lagrange Bay (YLGB),12:04 PM,12,12:41 PM,37
+FD624J,8/07/2022,Friday,PC24,Fitzroy Crossing (FIZ / YFTZ),Broome Int'l (BME / YBRM),8:39 PM,20,9:16 PM,37
+FD624J,18/07/2022,Monday,PC24,Port Hedland Int'l (PHE / YPPD),Newman (ZNE / YNWN),2:24 AM,2,3:01 AM,37
+FD211,13/07/2022,Wednesday,B350,Dubbo (DBO / YSDU),Collarenebri (CRB / YCBR),8:04 AM,8,8:42 AM,38
+FD425,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Gayndah (GAH / YGAY),1:59 PM,13,2:37 PM,38
+FD425,17/07/2022,Sunday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),7:30 PM,19,8:08 PM,38
+FD425,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Hervey Bay (HVB / YHBA),8:38 AM,8,9:16 AM,38
+FD425,14/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),10:41 AM,10,11:19 AM,38
+FD456,6/07/2022,Wednesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),5:19 AM,5,5:57 AM,38
+FD467,10/07/2022,Sunday,BE20,Toowoomba (YTWB),Bundaberg (BDB / YBUD),2:13 PM,14,2:51 PM,38
+FD478,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Brisbane (BNE / YBBN),11:16 AM,11,11:54 AM,38
+FD478,4/07/2022,Monday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),9:20 AM,9,9:58 AM,38
+FD480,13/07/2022,Wednesday,B350,Mareeba (MRG / YMBA),Townsville Int'l / RAAF (TSV / YBTL),5:32 PM,17,6:10 PM,38
+FD493,10/07/2022,Sunday,BE20,Charleville (CTL / YBCV),Cunnamulla (CMA / YCMU),7:32 AM,7,8:10 AM,38
+FD534,16/07/2022,Saturday,PC12,Port Lincoln (PLO / YPLC),Kimba (YIMB),6:35 PM,18,7:13 PM,38
+FD596,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),3:30 PM,15,4:08 PM,38
+FD596,8/07/2022,Friday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),8:33 PM,20,9:11 PM,38
+FD602,8/07/2022,Friday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),11:57 PM,23,12:35 AM,38
+FD617,6/07/2022,Wednesday,PC12,Wyalkatchem (YWKM),Jandakot (JAD / YPJT),7:56 PM,19,8:34 PM,38
+FD630J,14/07/2022,Thursday,PC24,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),10:24 PM,22,11:02 PM,38
+FD849,5/07/2022,Tuesday,PC12,Papunya (YPAY),Alice Springs (ASP / YBAS),2:07 AM,2,2:45 AM,38
+FD211,14/07/2022,Thursday,B350,Dubbo (DBO / YSDU),Brewarrina (BWQ / YBRW),8:31 AM,8,9:10 AM,39
+FD213,16/07/2022,Saturday,BE20,Dubbo (DBO / YSDU),Walgett (WGE / YWLG),11:35 AM,11,12:14 PM,39
+FD423,18/07/2022,Monday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),7:00 PM,19,7:39 PM,39
+FD425,9/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),12:56 PM,12,1:35 PM,39
+FD425,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),3:53 PM,15,4:32 PM,39
+FD425,17/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),12:15 AM,0,12:54 AM,39
+FD427,9/07/2022,Saturday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),8:43 AM,8,9:22 AM,39
+FD427,13/07/2022,Wednesday,B350,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),7:40 PM,19,8:19 PM,39
+FD427,8/07/2022,Friday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),3:35 PM,15,4:14 PM,39
+FD449,12/07/2022,Tuesday,B350,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),10:55 AM,10,11:34 AM,39
+FD449,14/07/2022,Thursday,B350,Rockhampton (ROK / YBRK),Bundaberg (BDB / YBUD),8:46 PM,20,9:25 PM,39
+FD467,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),4:31 PM,16,5:10 PM,39
+FD467,16/07/2022,Saturday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:48 AM,9,10:27 AM,39
+FD478,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),2:03 PM,14,2:42 PM,39
+FD478,3/07/2022,Sunday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:28 PM,21,10:07 PM,39
+FD478,14/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),10:00 AM,10,10:39 AM,39
+FD480,6/07/2022,Wednesday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),2:02 PM,14,2:41 PM,39
+FD480,14/07/2022,Thursday,B350,Proserpine / Whitsunday Coast (PPP / YBPN),Townsville Int'l / RAAF (TSV / YBTL),2:07 PM,14,2:46 PM,39
+FD489,6/07/2022,Wednesday,BE20,Mackay (MKY / YBMK),Rockhampton (ROK / YBRK),8:50 PM,20,9:29 PM,39
+FD489,8/07/2022,Friday,BE20,Roma (RMA / YROM),Toowoomba (YTWB),1:35 PM,13,2:14 PM,39
+FD493,9/07/2022,Saturday,BE20,Charleville (CTL / YBCV),Cunnamulla (CMA / YCMU),2:36 PM,14,3:15 PM,39
+FD493,15/07/2022,Friday,BE20,Yowah (YYWA),Charleville (CTL / YBCV),3:15 PM,15,3:54 PM,39
+FD530,15/07/2022,Friday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),12:16 PM,12,12:55 PM,39
+FD580,13/07/2022,Wednesday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),6:10 AM,6,6:49 AM,39
+FD596,14/07/2022,Thursday,PC12,Kingston (YKIG),Adelaide Int'l (ADL / YPAD),12:19 AM,0,12:58 AM,39
+FD596,4/07/2022,Monday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),12:17 AM,0,12:56 AM,39
+FD601,13/07/2022,Wednesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Southern Cross (SQC / YSCR),1:19 AM,1,1:58 AM,39
+FD619,8/07/2022,Friday,PC12,Geraldton (GET / YGEL),Moora (YMRO),3:30 PM,15,4:09 PM,39
+FD849,4/07/2022,Monday,PC12,Papunya (YPAY),Alice Springs (ASP / YBAS),8:15 PM,20,8:54 PM,39
+AM273,12/07/2022,Tuesday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Orange (OAG / YORG),5:40 PM,17,6:20 PM,40
+FD213,12/07/2022,Tuesday,BE20,Mudgee (DGE / YMDG),Sydney (SYD / YSSY),12:57 PM,12,1:37 PM,40
+FD248,5/07/2022,Tuesday,BE20,Menindee (YMED),White Cliffs (YWHC),1:48 PM,13,2:28 PM,40
+FD423,7/07/2022,Thursday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),11:27 AM,11,12:07 PM,40
+FD423,10/07/2022,Sunday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),9:06 AM,9,9:46 AM,40
+FD423,13/07/2022,Wednesday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),10:13 AM,10,10:53 AM,40
+FD423,6/07/2022,Wednesday,B350,Hughenden (HGD / YHUG),Townsville Int'l / RAAF (TSV / YBTL),5:47 PM,17,6:27 PM,40
+FD423,17/07/2022,Sunday,B350,Proserpine / Whitsunday Coast (PPP / YBPN),Townsville Int'l / RAAF (TSV / YBTL),8:20 PM,20,9:00 PM,40
+FD425,16/07/2022,Saturday,BE20,Bundaberg (BDB / YBUD),Rockhampton (ROK / YBRK),5:46 PM,17,6:26 PM,40
+FD425,9/07/2022,Saturday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),10:50 AM,10,11:30 AM,40
+FD427,13/07/2022,Wednesday,B350,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),3:09 PM,15,3:49 PM,40
+FD427,13/07/2022,Wednesday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:04 AM,9,9:44 AM,40
+FD449,15/07/2022,Friday,B350,Mackay (MKY / YBMK),Rockhampton (ROK / YBRK),6:04 PM,18,6:44 PM,40
+FD449,7/07/2022,Thursday,B350,Rockhampton (ROK / YBRK),Emerald (EMD / YEML),8:59 PM,20,9:39 PM,40
+FD456,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:56 AM,11,12:36 PM,40
+FD456,11/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Gayndah (GAH / YGAY),4:14 PM,16,4:54 PM,40
+FD467,12/07/2022,Tuesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),6:15 PM,18,6:55 PM,40
+FD480,6/07/2022,Wednesday,B350,Hughenden (HGD / YHUG),Townsville Int'l / RAAF (TSV / YBTL),12:04 AM,0,12:44 AM,40
+FD489,7/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),1:22 PM,13,2:02 PM,40
+FD493,15/07/2022,Friday,BE20,Charleville (CTL / YBCV),Yowah (YYWA),7:36 AM,7,8:16 AM,40
+FD493,14/07/2022,Thursday,BE20,Thargomindah (XTG / YTGM),Charleville (CTL / YBCV),3:33 PM,15,4:13 PM,40
+FD530,17/07/2022,Sunday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),4:39 PM,16,5:19 PM,40
+FD534,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),6:13 PM,18,6:53 PM,40
+FD534,11/07/2022,Monday,PC12,Loxton (YLOX),Adelaide Int'l (ADL / YPAD),3:16 AM,3,3:56 AM,40
+FD534,17/07/2022,Sunday,PC12,Port Pirie (PPI / YPIR),Adelaide Int'l (ADL / YPAD),4:39 PM,16,5:19 PM,40
+FD538,4/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),11:56 PM,23,12:36 AM,40
+FD538,5/07/2022,Tuesday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),1:39 AM,1,2:19 AM,40
+FD543,6/07/2022,Wednesday,PC12,Bulgunnia (YBUL),William Creek (YWMC),5:00 PM,17,5:40 PM,40
+FD543,4/07/2022,Monday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),8:18 PM,20,8:58 PM,40
+FD596,4/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),10:02 PM,22,10:42 PM,40
+FD608,15/07/2022,Friday,PC12,Port Hedland Int'l (PHE / YPPD),Christmas Creek (CKW / YCHK),3:15 PM,15,3:55 PM,40
+FD849,14/07/2022,Thursday,PC12,Ayers Rock (AYQ / YAYE),Alice Springs (ASP / YBAS),4:22 PM,16,5:02 PM,40
+AM273,18/07/2022,Monday,B350,Albury (ABX / YMAY),Essendon (MEB / YMEN),10:00 AM,10,10:41 AM,41
+FD211,11/07/2022,Monday,B350,Bourke (BRK / YBKE),Dubbo (DBO / YSDU),4:01 PM,16,4:42 PM,41
+FD278,5/07/2022,Tuesday,BE20,Ivanhoe (YIVO),Broken Hill (BHQ / YBHI),11:45 PM,23,12:26 AM,41
+FD423,17/07/2022,Sunday,B350,Hughenden (HGD / YHUG),Townsville Int'l / RAAF (TSV / YBTL),8:22 AM,8,9:03 AM,41
+FD425,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),12:24 AM,0,1:05 AM,41
+FD425,14/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Moura (YMOU),8:18 AM,8,8:59 AM,41
+FD425,16/07/2022,Saturday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:11 AM,8,8:52 AM,41
+FD449,8/07/2022,Friday,B350,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),4:11 PM,16,4:52 PM,41
+FD456,6/07/2022,Wednesday,BE20,Saint George (SGO / YSGE),Wellcamp Airport (WTB / YBWW),10:20 PM,22,11:01 PM,41
+FD456,10/07/2022,Sunday,BE20,Taroom (XTO / YTAM),Toowoomba (YTWB),3:13 PM,15,3:54 PM,41
+FD467,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),11:56 AM,11,12:37 PM,41
+FD480,5/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),7:40 AM,7,8:21 AM,41
+FD480,13/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mareeba (MRG / YMBA),4:06 PM,16,4:47 PM,41
+FD493,13/07/2022,Wednesday,BE20,Charleville (CTL / YBCV),Saint George (SGO / YSGE),7:34 PM,19,8:15 PM,41
+FD493,16/07/2022,Saturday,BE20,Charleville (CTL / YBCV),Blackall (BKQ / YBCK),6:08 PM,18,6:49 PM,41
+FD493,17/07/2022,Sunday,BE20,Roma (RMA / YROM),Kingaroy (KGY / YKRY),9:05 AM,9,9:46 AM,41
+FD493,7/07/2022,Thursday,BE20,Thargomindah (XTG / YTGM),Charleville (CTL / YBCV),5:54 PM,17,6:35 PM,41
+FD493,14/07/2022,Thursday,BE20,Thargomindah (XTG / YTGM),Charleville (CTL / YBCV),11:21 AM,11,12:02 PM,41
+FD534,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),10:11 AM,10,10:52 AM,41
+FD534,13/07/2022,Wednesday,PC12,Bordertown (YBOR),Adelaide Int'l (ADL / YPAD),7:12 PM,19,7:53 PM,41
+FD534,10/07/2022,Sunday,PC12,Ceduna (CED / YCDU),Port Lincoln (PLO / YPLC),4:44 PM,16,5:25 PM,41
+FD580,18/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),5:20 PM,17,6:01 PM,41
+FD580,10/07/2022,Sunday,PC12,Ceduna (CED / YCDU),Port Lincoln (PLO / YPLC),4:44 PM,16,5:25 PM,41
+FD596,12/07/2022,Tuesday,PC12,Renmark (RMK / YREN),Adelaide Int'l (ADL / YPAD),1:29 PM,13,2:10 PM,41
+FD602,11/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Merredin (YMDN),9:52 AM,9,10:33 AM,41
+FD602,5/07/2022,Tuesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Laverton (LVO / YLTN),1:53 PM,13,2:34 PM,41
+FD608,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Jandakot (JAD / YPJT),6:33 PM,18,7:14 PM,41
+AM273,5/07/2022,Tuesday,B350,Canberra Int'l (CBR / YSCB),Sydney (SYD / YSSY),8:18 PM,20,9:00 PM,42
+FD211,8/07/2022,Friday,B350,Collarenebri (CRB / YCBR),Dubbo (DBO / YSDU),3:03 PM,15,3:45 PM,42
+FD425,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),1:25 PM,13,2:07 PM,42
+FD425,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),3:25 PM,15,4:07 PM,42
+FD425,7/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),11:49 PM,23,12:31 AM,42
+FD425,12/07/2022,Tuesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),8:15 PM,20,8:57 PM,42
+FD427,12/07/2022,Tuesday,B350,Brisbane (BNE / YBBN),Hervey Bay (HVB / YHBA),3:11 PM,15,3:53 PM,42
+FD427,15/07/2022,Friday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),6:39 PM,18,7:21 PM,42
+FD427,15/07/2022,Friday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),6:39 PM,18,7:21 PM,42
+FD456,11/07/2022,Monday,BE20,Gayndah (GAH / YGAY),Brisbane (BNE / YBBN),5:07 PM,17,5:49 PM,42
+FD489,15/07/2022,Friday,BE20,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),9:40 AM,9,10:22 AM,42
+FD534,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),7:42 PM,19,8:24 PM,42
+FD534,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),10:02 AM,10,10:44 AM,42
+FD534,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),9:40 AM,9,10:22 AM,42
+FD534,12/07/2022,Tuesday,PC12,Port Lincoln (PLO / YPLC),Adelaide Int'l (ADL / YPAD),12:53 PM,12,1:35 PM,42
+FD538,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),10:02 AM,10,10:44 AM,42
+FD543,5/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),5:27 PM,17,6:09 PM,42
+FD580,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),9:40 AM,9,10:22 AM,42
+FD596,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),2:29 PM,14,3:11 PM,42
+FD596,11/07/2022,Monday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),2:44 PM,14,3:26 PM,42
+FD596,12/07/2022,Tuesday,PC12,Whyalla (WYA / YWHA),Adelaide Int'l (ADL / YPAD),5:38 PM,17,6:20 PM,42
+FD601,7/07/2022,Thursday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Laverton (LVO / YLTN),10:12 AM,10,10:54 AM,42
+FD602,8/07/2022,Friday,PC12,Manjimup (MJP / YMJM),Jandakot (JAD / YPJT),8:14 PM,20,8:56 PM,42
+FD608,17/07/2022,Sunday,PC12,Port Hedland Int'l (PHE / YPPD),Solomon (SLJ / YSOL),8:26 PM,20,9:08 PM,42
+FD856,8/07/2022,Friday,PC12,Yuendumu (YUE / YYND),Alice Springs (ASP / YBAS),4:17 AM,4,4:59 AM,42
+AM273,8/07/2022,Friday,B350,Merimbula (MIM / YMER),Sydney (SYD / YSSY),2:15 AM,2,2:58 AM,43
+FD211,7/07/2022,Thursday,B350,Bourke (BRK / YBKE),Dubbo (DBO / YSDU),3:41 PM,15,4:24 PM,43
+FD211,13/07/2022,Wednesday,B350,Collarenebri (CRB / YCBR),Bourke (BRK / YBKE),2:24 PM,14,3:07 PM,43
+FD211,18/07/2022,Monday,B350,Dubbo (DBO / YSDU),Lightning Ridge (LHG / YLRD),8:07 AM,8,8:50 AM,43
+FD416,17/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Boulia (BQL / YBOU),1:13 PM,13,1:56 PM,43
+FD423,18/07/2022,Monday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),6:25 PM,18,7:08 PM,43
+FD423,14/07/2022,Thursday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),5:13 PM,17,5:56 PM,43
+FD425,13/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:50 AM,11,12:33 PM,43
+FD425,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),4:14 AM,4,4:57 AM,43
+FD425,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),2:16 PM,14,2:59 PM,43
+FD425,6/07/2022,Wednesday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),9:52 PM,21,10:35 PM,43
+FD425,7/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),2:42 PM,14,3:25 PM,43
+FD449,13/07/2022,Wednesday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:56 PM,21,10:39 PM,43
+FD456,7/07/2022,Thursday,BE20,Mitchell (YMIT),Goondiwindi (GOO / YGDI),10:37 AM,10,11:20 AM,43
+FD467,13/07/2022,Wednesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),5:39 PM,17,6:22 PM,43
+FD480,7/07/2022,Thursday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),12:00 AM,0,12:43 AM,43
+FD480,5/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),12:20 PM,12,1:03 PM,43
+FD489,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:42 AM,11,12:25 PM,43
+FD493,13/07/2022,Wednesday,BE20,Taroom (XTO / YTAM),Toowoomba (YTWB),9:40 PM,21,10:23 PM,43
+FD530,15/07/2022,Friday,PC12,Booleroo Centre (YBOC),Adelaide Int'l (ADL / YPAD),5:09 PM,17,5:52 PM,43
+FD534,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Tumby Bay (YTBB),8:07 PM,20,8:50 PM,43
+FD534,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),12:52 PM,12,1:35 PM,43
+FD534,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),2:51 PM,14,3:34 PM,43
+FD534,14/07/2022,Thursday,PC12,Port Pirie (PPI / YPIR),Kingscote (KGC / YKSC),11:37 AM,11,12:20 PM,43
+FD543,14/07/2022,Thursday,PC12,Port Augusta (PUG / YPAG),Marree (YMRE),9:49 AM,9,10:32 AM,43
+FD580,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Tumby Bay (YTBB),8:07 PM,20,8:50 PM,43
+FD580,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),2:51 PM,14,3:34 PM,43
+FD596,5/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),10:47 PM,22,11:30 PM,43
+FD602,4/07/2022,Monday,PC12,Merredin (YMDN),Jandakot (JAD / YPJT),10:19 PM,22,11:02 PM,43
+FD607,11/07/2022,Monday,PC12,Eliwana (WHB / YEWA),Port Hedland Int'l (PHE / YPPD),12:42 AM,0,1:25 AM,43
+FD608,15/07/2022,Friday,PC12,Onslow (ONS / YOLW),Solomon (SLJ / YSOL),12:09 PM,12,12:52 PM,43
+FD619,7/07/2022,Thursday,PC12,Wiluna (WUN / YWLU),Laverton (LVO / YLTN),10:34 AM,10,11:17 AM,43
+FD624J,6/07/2022,Wednesday,PC24,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),9:45 PM,21,10:28 PM,43
+FD624J,15/07/2022,Friday,PC24,Jandakot (JAD / YPJT),Geraldton (GET / YGEL),1:07 PM,13,1:50 PM,43
+FD629,16/07/2022,Saturday,PC12,Dave Forest (KFE / YFDF),Port Hedland Int'l (PHE / YPPD),1:04 AM,1,1:47 AM,43
+FD630J,17/07/2022,Sunday,PC24,Esperance (EPR / YESP),Albany (ALH / YABA),3:37 PM,15,4:20 PM,43
+AM273,9/07/2022,Saturday,B350,Sydney (SYD / YSSY),Tamworth (TMW / YSTW),2:52 PM,14,3:36 PM,44
+AM273,10/07/2022,Sunday,B350,Sydney (SYD / YSSY),Port Macquarie (PQQ / YPMQ),6:48 AM,6,7:32 AM,44
+AM273,12/07/2022,Tuesday,B350,Sydney (SYD / YSSY),Port Macquarie (PQQ / YPMQ),2:24 PM,14,3:08 PM,44
+FD211,8/07/2022,Friday,B350,Dubbo (DBO / YSDU),Collarenebri (CRB / YCBR),7:56 AM,7,8:40 AM,44
+FD211,12/07/2022,Tuesday,B350,Dubbo (DBO / YSDU),Lightning Ridge (LHG / YLRD),8:24 AM,8,9:08 AM,44
+FD211,5/07/2022,Tuesday,B350,Lightning Ridge (LHG / YLRD),Dubbo (DBO / YSDU),11:20 AM,11,12:04 PM,44
+FD211,18/07/2022,Monday,B350,Lightning Ridge (LHG / YLRD),Dubbo (DBO / YSDU),4:16 PM,16,5:00 PM,44
+FD213,16/07/2022,Saturday,BE20,Dubbo (DBO / YSDU),Bankstown (BWU / YSBK),4:12 PM,16,4:56 PM,44
+FD416,14/07/2022,Thursday,BE20,Mount Isa (ISA / YBMA),Boulia (BQL / YBOU),10:20 PM,22,11:04 PM,44
+FD423,12/07/2022,Tuesday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),3:24 AM,3,4:08 AM,44
+FD423,15/07/2022,Friday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),4:25 PM,16,5:09 PM,44
+FD423,15/07/2022,Friday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),7:49 PM,19,8:33 PM,44
+FD423,10/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),7:41 AM,7,8:25 AM,44
+FD423,17/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Hughenden (HGD / YHUG),7:12 AM,7,7:56 AM,44
+FD425,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),2:40 AM,2,3:24 AM,44
+FD425,5/07/2022,Tuesday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),1:02 PM,13,1:46 PM,44
+FD425,8/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),9:41 AM,9,10:25 AM,44
+FD425,8/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:20 PM,20,9:04 PM,44
+FD425,9/07/2022,Saturday,BE20,Bundaberg (BDB / YBUD),Dalby (DBY / YDAY),8:33 PM,20,9:17 PM,44
+FD425,10/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:25 AM,8,9:09 AM,44
+FD425,12/07/2022,Tuesday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),3:06 PM,15,3:50 PM,44
+FD427,7/07/2022,Thursday,B350,Stanthorpe (SNH / YSPE),Brisbane (BNE / YBBN),10:25 AM,10,11:09 AM,44
+FD456,11/07/2022,Monday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),12:09 PM,12,12:53 PM,44
+FD467,10/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),3:40 PM,15,4:24 PM,44
+FD467,16/07/2022,Saturday,BE20,Saint George (SGO / YSGE),Toowoomba (YTWB),5:43 PM,17,6:27 PM,44
+FD478,4/07/2022,Monday,BE20,Bundaberg (BDB / YBUD),Rockhampton (ROK / YBRK),1:45 PM,13,2:29 PM,44
+FD489,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Mackay (MKY / YBMK),7:33 PM,19,8:17 PM,44
+FD493,4/07/2022,Monday,BE20,Charleville (CTL / YBCV),Dirranbandi (DRN / YDBI),8:11 PM,20,8:55 PM,44
+FD493,10/07/2022,Sunday,BE20,Cunnamulla (CMA / YCMU),Mitchell (YMIT),8:37 AM,8,9:21 AM,44
+FD530,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),9:42 AM,9,10:26 AM,44
+FD534,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Cummins Town (YCMM),7:58 AM,7,8:42 AM,44
+FD534,13/07/2022,Wednesday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),2:40 PM,14,3:24 PM,44
+FD543,6/07/2022,Wednesday,PC12,Port Augusta (PUG / YPAG),Glendambo (YGLD),10:03 AM,10,10:47 AM,44
+FD596,7/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Naracoorte (NAC / YNRC),8:50 AM,8,9:34 AM,44
+FD601,14/07/2022,Thursday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Esperance (EPR / YESP),10:05 AM,10,10:49 AM,44
+FD602,9/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Albany (ALH / YABA),9:16 PM,21,10:00 PM,44
+FD602,5/07/2022,Tuesday,PC12,Merredin (YMDN),Jandakot (JAD / YPJT),12:42 AM,0,1:26 AM,44
+FD624J,6/07/2022,Wednesday,PC24,Fitzroy Crossing (FIZ / YFTZ),Kununurra (KNX / YPKU),10:59 PM,22,11:43 PM,44
+FD624J,15/07/2022,Friday,PC24,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),2:51 PM,14,3:35 PM,44
+AM273,8/07/2022,Friday,B350,Merimbula (MIM / YMER),Sydney (SYD / YSSY),6:10 PM,18,6:55 PM,45
+AM273,12/07/2022,Tuesday,B350,Orange (OAG / YORG),Sydney (SYD / YSSY),6:47 PM,18,7:32 PM,45
+FD211,12/07/2022,Tuesday,B350,Lightning Ridge (LHG / YLRD),Dubbo (DBO / YSDU),4:07 PM,16,4:52 PM,45
+FD416,10/07/2022,Sunday,BE20,Marqua (MQE / YMQA),Mount Isa (ISA / YBMA),2:42 PM,14,3:27 PM,45
+FD416,12/07/2022,Tuesday,BE20,Mount Isa (ISA / YBMA),Normanton (YNTN),11:23 AM,11,12:08 PM,45
+FD416,16/07/2022,Saturday,BE20,Mount Isa (ISA / YBMA),Burketown (BUC / YBKT),7:55 PM,19,8:40 PM,45
+FD423,13/07/2022,Wednesday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),12:48 AM,0,1:33 AM,45
+FD423,15/07/2022,Friday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),11:55 PM,23,12:40 AM,45
+FD425,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),4:05 PM,16,4:50 PM,45
+FD425,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:56 PM,23,12:41 AM,45
+FD425,15/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:21 PM,20,9:06 PM,45
+FD425,17/07/2022,Sunday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:50 AM,8,9:35 AM,45
+FD449,8/07/2022,Friday,B350,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),2:39 PM,14,3:24 PM,45
+FD449,7/07/2022,Thursday,B350,Goondiwindi (GOO / YGDI),Brisbane (BNE / YBBN),2:25 PM,14,3:10 PM,45
+FD449,7/07/2022,Thursday,B350,Rockhampton (ROK / YBRK),Maryborough (MBH / YMYB),11:27 AM,11,12:12 PM,45
+FD456,15/07/2022,Friday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),1:13 PM,13,1:58 PM,45
+FD467,17/07/2022,Sunday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),3:50 PM,15,4:35 PM,45
+FD467,10/07/2022,Sunday,BE20,Maungindi (YMGI),Toowoomba (YTWB),11:26 AM,11,12:11 PM,45
+FD480,9/07/2022,Saturday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),9:47 AM,9,10:32 AM,45
+FD480,10/07/2022,Sunday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),4:38 PM,16,5:23 PM,45
+FD480,8/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),9:09 AM,9,9:54 AM,45
+FD534,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Port Lincoln (PLO / YPLC),3:11 PM,15,3:56 PM,45
+FD534,17/07/2022,Sunday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),1:02 AM,1,1:47 AM,45
+FD543,8/07/2022,Friday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),1:10 PM,13,1:55 PM,45
+FD596,13/07/2022,Wednesday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),5:03 PM,17,5:48 PM,45
+FD630J,16/07/2022,Saturday,PC24,Newman (ZNE / YNWN),Karratha (KTA / YPKA),2:38 PM,14,3:23 PM,45
+AM273,10/07/2022,Sunday,B350,Coffs Harbour (YCFS),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),5:17 PM,17,6:03 PM,46
+AM273,11/07/2022,Monday,B350,Sydney (SYD / YSSY),Tamworth (TMW / YSTW),1:36 PM,13,2:22 PM,46
+FD213,14/07/2022,Thursday,BE20,Bankstown (BWU / YSBK),Dubbo (DBO / YSDU),3:23 PM,15,4:09 PM,46
+FD213,7/07/2022,Thursday,BE20,Dubbo (DBO / YSDU),Brewarrina (BWQ / YBRW),7:54 PM,19,8:40 PM,46
+FD416,9/07/2022,Saturday,BE20,Mount Isa (ISA / YBMA),Normanton (YNTN),11:36 AM,11,12:22 PM,46
+FD416,10/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Marqua (MQE / YMQA),1:13 PM,13,1:59 PM,46
+FD416,17/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Normanton (YNTN),7:25 AM,7,8:11 AM,46
+FD423,15/07/2022,Friday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),10:51 AM,10,11:37 AM,46
+FD425,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:17 PM,23,12:03 AM,46
+FD425,8/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),10:15 PM,22,11:01 PM,46
+FD427,11/07/2022,Monday,B350,Brisbane (BNE / YBBN),Goondiwindi (GOO / YGDI),8:26 AM,8,9:12 AM,46
+FD456,4/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Chinchilla (CCL / YCCA),4:01 PM,16,4:47 PM,46
+FD456,11/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Hervey Bay (HVB / YHBA),10:51 AM,10,11:37 AM,46
+FD467,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Goondiwindi (GOO / YGDI),11:44 AM,11,12:30 PM,46
+FD467,14/07/2022,Thursday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),9:23 PM,21,10:09 PM,46
+FD480,7/07/2022,Thursday,B350,Hughenden (HGD / YHUG),Townsville Int'l / RAAF (TSV / YBTL),10:26 AM,10,11:12 AM,46
+FD480,7/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),6:59 PM,18,7:45 PM,46
+FD480,10/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),10:24 AM,10,11:10 AM,46
+FD493,7/07/2022,Thursday,BE20,Charleville (CTL / YBCV),Thargomindah (XTG / YTGM),7:48 AM,7,8:34 AM,46
+FD493,8/07/2022,Friday,BE20,Charleville (CTL / YBCV),Eulo (YEUO),8:07 AM,8,8:53 AM,46
+FD534,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),3:45 PM,15,4:31 PM,46
+FD534,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Whyalla (WYA / YWHA),11:42 PM,23,12:28 AM,46
+FD534,11/07/2022,Monday,PC12,Port Augusta (PUG / YPAG),Loxton (YLOX),2:01 AM,2,2:47 AM,46
+FD534,17/07/2022,Sunday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),12:22 PM,12,1:08 PM,46
+FD543,16/07/2022,Saturday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),8:26 PM,20,9:12 PM,46
+FD580,17/07/2022,Sunday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),12:22 PM,12,1:08 PM,46
+FD596,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Adelaide Int'l (ADL / YPAD),3:24 PM,15,4:10 PM,46
+FD596,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),10:52 AM,10,11:38 AM,46
+FD596,12/07/2022,Tuesday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),10:21 PM,22,11:07 PM,46
+FD602,11/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Morawa (MWB / YMRW),5:55 PM,17,6:41 PM,46
+FD849,6/07/2022,Wednesday,PC12,Ayers Rock (AYQ / YAYE),Alice Springs (ASP / YBAS),12:50 AM,0,1:36 AM,46
+FD853,18/07/2022,Monday,PC12,Ayers Rock (AYQ / YAYE),Kintore (YKNT),1:56 PM,13,2:42 PM,46
+FD874,13/07/2022,Wednesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),RAAF Tindal (KTR / YPTN),8:15 AM,8,9:01 AM,46
+AM273,6/07/2022,Wednesday,B350,Sydney (SYD / YSSY),Tamworth (TMW / YSTW),6:13 PM,18,7:00 PM,47
+FD211,14/07/2022,Thursday,B350,Brewarrina (BWQ / YBRW),Dubbo (DBO / YSDU),3:45 PM,15,4:32 PM,47
+FD213,7/07/2022,Thursday,BE20,Brewarrina (BWQ / YBRW),Dubbo (DBO / YSDU),9:09 PM,21,9:56 PM,47
+FD213,17/07/2022,Sunday,BE20,Wagga Wagga (WGA / YSWG),Bankstown (BWU / YSBK),11:44 AM,11,12:31 PM,47
+FD423,12/07/2022,Tuesday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),6:06 PM,18,6:53 PM,47
+FD423,17/07/2022,Sunday,B350,Cairns Int'l (CNS / YBCS),Townsville Int'l / RAAF (TSV / YBTL),12:25 PM,12,1:12 PM,47
+FD423,15/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),10:12 PM,22,10:59 PM,47
+FD425,8/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),1:33 AM,1,2:20 AM,47
+FD425,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),10:23 PM,22,11:10 PM,47
+FD425,13/07/2022,Wednesday,BE20,Monto (YMTO),Brisbane (BNE / YBBN),9:00 AM,9,9:47 AM,47
+FD427,13/07/2022,Wednesday,B350,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),10:19 PM,22,11:06 PM,47
+FD427,12/07/2022,Tuesday,B350,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),4:17 PM,16,5:04 PM,47
+FD467,15/07/2022,Friday,BE20,Toowoomba (YTWB),Roma (RMA / YROM),1:43 PM,13,2:30 PM,47
+FD480,9/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),8:17 AM,8,9:04 AM,47
+FD480,14/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),3:54 PM,15,4:41 PM,47
+FD493,14/07/2022,Thursday,BE20,Charleville (CTL / YBCV),Thargomindah (XTG / YTGM),1:42 PM,13,2:29 PM,47
+FD534,15/07/2022,Friday,PC12,Ceduna (CED / YCDU),Port Lincoln (PLO / YPLC),6:41 PM,18,7:28 PM,47
+FD617,7/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Bunbury (BUY / YBUN),3:14 AM,3,4:01 AM,47
+FD624J,5/07/2022,Tuesday,PC24,Broome Int'l (BME / YBRM),Port Hedland Int'l (PHE / YPPD),11:26 PM,23,12:13 AM,47
+FD624J,17/07/2022,Sunday,PC24,Broome Int'l (BME / YBRM),Port Hedland Int'l (PHE / YPPD),12:57 AM,0,1:44 AM,47
+FD849,14/07/2022,Thursday,PC12,Alice Springs (ASP / YBAS),Ayers Rock (AYQ / YAYE),12:48 PM,12,1:35 PM,47
+FD856,14/07/2022,Thursday,PC12,Alice Springs (ASP / YBAS),Ayers Rock (AYQ / YAYE),12:48 PM,12,1:35 PM,47
+AM273,10/07/2022,Sunday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Coonabarabran (COJ / YCBB),10:11 PM,22,10:59 PM,48
+AM273,10/07/2022,Sunday,B350,Port Macquarie (PQQ / YPMQ),Sydney (SYD / YSSY),8:39 AM,8,9:27 AM,48
+AM273,6/07/2022,Wednesday,B350,Sydney (SYD / YSSY),Merimbula (MIM / YMER),1:22 AM,1,2:10 AM,48
+AM273,11/07/2022,Monday,B350,Sydney (SYD / YSSY),Merimbula (MIM / YMER),9:22 PM,21,10:10 PM,48
+FD211,6/07/2022,Wednesday,B350,Bourke (BRK / YBKE),Dubbo (DBO / YSDU),3:53 PM,15,4:41 PM,48
+FD211,5/07/2022,Tuesday,B350,Dubbo (DBO / YSDU),Lightning Ridge (LHG / YLRD),10:01 AM,10,10:49 AM,48
+FD213,13/07/2022,Wednesday,BE20,Sydney (SYD / YSSY),Dubbo (DBO / YSDU),5:22 PM,17,6:10 PM,48
+FD237,10/07/2022,Sunday,BE20,Orange (OAG / YORG),Sydney (SYD / YSSY),3:02 PM,15,3:50 PM,48
+FD416,11/07/2022,Monday,BE20,Julia Creek (JCK / YJLC),Normanton (YNTN),9:07 PM,21,9:55 PM,48
+FD423,18/07/2022,Monday,B350,Hughenden (HGD / YHUG),Townsville Int'l / RAAF (TSV / YBTL),10:07 AM,10,10:55 AM,48
+FD423,7/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),10:08 AM,10,10:56 AM,48
+FD423,15/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),3:01 PM,15,3:49 PM,48
+FD423,15/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),6:38 PM,18,7:26 PM,48
+FD425,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),10:23 PM,22,11:11 PM,48
+FD425,8/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),2:04 PM,14,2:52 PM,48
+FD467,15/07/2022,Friday,BE20,Toowoomba (YTWB),Saint George (SGO / YSGE),10:02 AM,10,10:50 AM,48
+FD480,11/07/2022,Monday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),9:54 AM,9,10:42 AM,48
+FD480,14/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mackay (MKY / YBMK),10:51 AM,10,11:39 AM,48
+FD493,14/07/2022,Thursday,BE20,Charleville (CTL / YBCV),Thargomindah (XTG / YTGM),7:15 AM,7,8:03 AM,48
+FD534,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Naracoorte (NAC / YNRC),3:52 PM,15,4:40 PM,48
+FD534,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Naracoorte (NAC / YNRC),2:57 PM,14,3:45 PM,48
+FD534,8/07/2022,Friday,PC12,Naracoorte (NAC / YNRC),Adelaide Int'l (ADL / YPAD),5:28 PM,17,6:16 PM,48
+FD538,18/07/2022,Monday,PC12,Naracoorte (NAC / YNRC),Adelaide Int'l (ADL / YPAD),2:37 PM,14,3:25 PM,48
+FD543,14/07/2022,Thursday,PC12,Marree (YMRE),Port Augusta (PUG / YPAG),4:16 PM,16,5:04 PM,48
+FD596,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),7:00 PM,19,7:48 PM,48
+FD601,13/07/2022,Wednesday,PC12,Leinster (LER / YLST),Kalgoorlie-Boulder (KGI / YPKG),4:49 PM,16,5:37 PM,48
+FD602,5/07/2022,Tuesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Esperance (EPR / YESP),10:11 AM,10,10:59 AM,48
+FD602,4/07/2022,Monday,PC12,Leinster (LER / YLST),Kalgoorlie-Boulder (KGI / YPKG),6:11 PM,18,6:59 PM,48
+FD602,7/07/2022,Thursday,PC12,Wave Rock (YWRC),Jandakot (JAD / YPJT),6:59 PM,18,7:47 PM,48
+FD608,16/07/2022,Saturday,PC12,Paraburdoo (YPBO),Port Hedland Int'l (PHE / YPPD),2:42 AM,2,3:30 AM,48
+FD619,5/07/2022,Tuesday,PC12,Shark Bay (MJK / YSHK),Geraldton (GET / YGEL),6:31 PM,18,7:19 PM,48
+FD630J,14/07/2022,Thursday,PC24,Jandakot (JAD / YPJT),Geraldton (GET / YGEL),6:23 PM,18,7:11 PM,48
+FD630J,17/07/2022,Sunday,PC24,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),1:24 PM,13,2:12 PM,48
+AM273,8/07/2022,Friday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),1:11 PM,13,2:00 PM,49
+AM273,6/07/2022,Wednesday,B350,Sydney (SYD / YSSY),Tamworth (TMW / YSTW),10:55 AM,10,11:44 AM,49
+AM273,9/07/2022,Saturday,B350,Wagga Wagga (WGA / YSWG),Sydney (SYD / YSSY),11:21 AM,11,12:10 PM,49
+FD211,6/07/2022,Wednesday,B350,Dubbo (DBO / YSDU),Bourke (BRK / YBKE),8:43 AM,8,9:32 AM,49
+FD278,5/07/2022,Tuesday,BE20,Broken Hill (BHQ / YBHI),Ivanhoe (YIVO),10:18 PM,22,11:07 PM,49
+FD416,16/07/2022,Saturday,BE20,Doomadgee (DMD / YDMG),Mount Isa (ISA / YBMA),10:03 PM,22,10:52 PM,49
+FD416,5/07/2022,Tuesday,BE20,Mount Isa (ISA / YBMA),Normanton (YNTN),10:13 AM,10,11:02 AM,49
+FD423,18/07/2022,Monday,B350,Townsville Int'l / RAAF (TSV / YBTL),Hughenden (HGD / YHUG),7:53 AM,7,8:42 AM,49
+FD425,14/07/2022,Thursday,BE20,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),8:14 PM,20,9:03 PM,49
+FD425,15/07/2022,Friday,BE20,Hervey Bay (HVB / YHBA),Brisbane (BNE / YBBN),12:20 PM,12,1:09 PM,49
+FD427,9/07/2022,Saturday,B350,Brisbane (BNE / YBBN),Goondiwindi (GOO / YGDI),7:21 PM,19,8:10 PM,49
+FD493,14/07/2022,Thursday,BE20,Charleville (CTL / YBCV),Miles Airport (WLE / YMLS),7:47 PM,19,8:36 PM,49
+FD534,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),9:08 AM,9,9:57 AM,49
+FD534,14/07/2022,Thursday,PC12,Naracoorte (NAC / YNRC),Adelaide Int'l (ADL / YPAD),4:10 PM,16,4:59 PM,49
+FD543,18/07/2022,Monday,PC12,Port Augusta (PUG / YPAG),Adelaide Int'l (ADL / YPAD),3:19 PM,15,4:08 PM,49
+FD596,11/07/2022,Monday,PC12,Prominent Hill Mine (YPMH),Port Augusta (PUG / YPAG),1:15 PM,13,2:04 PM,49
+FD601,13/07/2022,Wednesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Leinster (LER / YLST),3:34 PM,15,4:23 PM,49
+FD602,9/07/2022,Saturday,PC12,Shark Bay (MJK / YSHK),Geraldton (GET / YGEL),1:29 PM,13,2:18 PM,49
+FD624J,16/07/2022,Saturday,PC24,Broome Int'l (BME / YBRM),Port Hedland Int'l (PHE / YPPD),11:56 AM,11,12:45 PM,49
+FD629,16/07/2022,Saturday,PC12,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),1:03 PM,13,1:52 PM,49
+FD630J,12/07/2022,Tuesday,PC24,Jandakot (JAD / YPJT),Esperance (EPR / YESP),1:57 PM,13,2:46 PM,49
+FD874,13/07/2022,Wednesday,PC12,RAAF Tindal (KTR / YPTN),Darwin Int'l / RAAF (DRW / YPDN),5:30 PM,17,6:19 PM,49
+AM273,12/07/2022,Tuesday,B350,Sydney (SYD / YSSY),Port Macquarie (PQQ / YPMQ),7:35 AM,7,8:25 AM,50
+FD211,7/07/2022,Thursday,B350,Dubbo (DBO / YSDU),Bourke (BRK / YBKE),9:22 AM,9,10:12 AM,50
+FD449,14/07/2022,Thursday,B350,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),9:46 PM,21,10:36 PM,50
+FD467,15/07/2022,Friday,BE20,Roma (RMA / YROM),Toowoomba (YTWB),3:01 PM,15,3:51 PM,50
+FD467,15/07/2022,Friday,BE20,Saint George (SGO / YSGE),Toowoomba (YTWB),11:46 AM,11,12:36 PM,50
+FD493,6/07/2022,Wednesday,BE20,Windorah (WNR / YWDH),Birdsville (BVI / YBDV),6:23 AM,6,7:13 AM,50
+FD530,17/07/2022,Sunday,PC12,Ceduna (CED / YCDU),Whyalla (WYA / YWHA),8:22 PM,20,9:12 PM,50
+FD607,8/07/2022,Friday,PC12,Broome Int'l (BME / YBRM),One Arm Point (YOAP),4:44 PM,16,5:34 PM,50
+FD608,15/07/2022,Friday,PC12,Christmas Creek (CKW / YCHK),Port Hedland Int'l (PHE / YPPD),4:31 PM,16,5:21 PM,50
+FD608,11/07/2022,Monday,PC12,Paraburdoo (YPBO),Port Hedland Int'l (PHE / YPPD),8:07 PM,20,8:57 PM,50
+FD608,16/07/2022,Saturday,PC12,West Angelas (WLP / YANG),Port Hedland Int'l (PHE / YPPD),8:45 PM,20,9:35 PM,50
+AM273,9/07/2022,Saturday,B350,Sydney (SYD / YSSY),Kempsey (KPS / YKMP),8:50 PM,20,9:41 PM,51
+FD211,13/07/2022,Wednesday,B350,Bourke (BRK / YBKE),Dubbo (DBO / YSDU),3:26 PM,15,4:17 PM,51
+FD213,12/07/2022,Tuesday,BE20,Sydney (SYD / YSSY),Dubbo (DBO / YSDU),4:16 PM,16,5:07 PM,51
+FD416,4/07/2022,Monday,BE20,Mount Isa (ISA / YBMA),Winton (WIN / YWTN),11:14 AM,11,12:05 PM,51
+FD423,11/07/2022,Monday,B350,Normanton (YNTN),Mount Isa (ISA / YBMA),10:22 AM,10,11:13 AM,51
+FD423,13/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Moranbah (MOV / YMRB),7:33 PM,19,8:24 PM,51
+FD425,11/07/2022,Monday,BE20,Wondai (WDI / YWND),Rockhampton (ROK / YBRK),1:15 PM,13,2:06 PM,51
+FD480,7/07/2022,Thursday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),3:44 PM,15,4:35 PM,51
+FD480,7/07/2022,Thursday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),9:45 PM,21,10:36 PM,51
+FD480,8/07/2022,Friday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),6:58 PM,18,7:49 PM,51
+FD480,6/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),7:52 AM,7,8:43 AM,51
+FD493,5/07/2022,Tuesday,BE20,Charleville (CTL / YBCV),Jundah (JUN / YJDA),7:25 AM,7,8:16 AM,51
+FD493,8/07/2022,Friday,BE20,Goondiwindi (GOO / YGDI),Brisbane (BNE / YBBN),11:06 PM,23,11:57 PM,51
+FD493,13/07/2022,Wednesday,BE20,Stonehenge (YSTO),Charleville (CTL / YBCV),4:30 PM,16,5:21 PM,51
+FD534,17/07/2022,Sunday,PC12,Ceduna (CED / YCDU),Whyalla (WYA / YWHA),8:22 PM,20,9:13 PM,51
+FD596,5/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Millicent (MLR / YMCT),4:40 PM,16,5:31 PM,51
+FD602,11/07/2022,Monday,PC12,Morawa (MWB / YMRW),Jandakot (JAD / YPJT),7:51 PM,19,8:42 PM,51
+FD608,15/07/2022,Friday,PC12,Paraburdoo (YPBO),Port Hedland Int'l (PHE / YPPD),11:12 PM,23,12:03 AM,51
+FD608,16/07/2022,Saturday,PC12,Warrawagine Stn (WRW / YWWG),West Angelas (WLP / YANG),7:06 PM,19,7:57 PM,51
+FD619,12/07/2022,Tuesday,PC12,Meekatharra (MKR / YMEK),Newman (ZNE / YNWN),6:24 PM,18,7:15 PM,51
+FD619,12/07/2022,Tuesday,PC12,Shark Bay (MJK / YSHK),Geraldton (GET / YGEL),12:07 PM,12,12:58 PM,51
+FD629,17/07/2022,Sunday,PC12,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),9:59 PM,21,10:50 PM,51
+FD630J,6/07/2022,Wednesday,PC24,Jandakot (JAD / YPJT),Busselton Regional (BQB / YBLN),12:14 PM,12,1:05 PM,51
+AM273,8/07/2022,Friday,B350,Sydney (SYD / YSSY),Merimbula (MIM / YMER),4:37 PM,16,5:29 PM,52
+FD423,11/07/2022,Monday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),12:15 AM,0,1:07 AM,52
+FD423,5/07/2022,Tuesday,B350,Richmond (RCM / YRMD),Townsville Int'l / RAAF (TSV / YBTL),3:53 PM,15,4:45 PM,52
+FD423,15/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),9:19 AM,9,10:11 AM,52
+FD423,18/07/2022,Monday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),12:32 PM,12,1:24 PM,52
+FD427,9/07/2022,Saturday,B350,Goondiwindi (GOO / YGDI),Brisbane (BNE / YBBN),9:33 PM,21,10:25 PM,52
+FD427,17/07/2022,Sunday,B350,Thangool (THG / YTNG),Brisbane (BNE / YBBN),11:24 AM,11,12:16 PM,52
+FD449,11/07/2022,Monday,B350,Bundaberg (BDB / YBUD),Brisbane (BNE / YBBN),11:33 AM,11,12:25 PM,52
+FD456,3/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Goondiwindi (GOO / YGDI),8:35 PM,20,9:27 PM,52
+FD478,3/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),11:23 PM,23,12:15 AM,52
+FD478,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),3:52 PM,15,4:44 PM,52
+FD478,17/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Kingaroy (KGY / YKRY),8:29 PM,20,9:21 PM,52
+FD489,15/07/2022,Friday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),1:23 PM,13,2:15 PM,52
+FD530,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Wilpena Pound (YHAW),2:43 PM,14,3:35 PM,52
+FD534,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Port Augusta (PUG / YPAG),12:42 AM,0,1:34 AM,52
+FD534,15/07/2022,Friday,PC12,Wudinna (YWUD),Adelaide Int'l (ADL / YPAD),5:03 AM,5,5:55 AM,52
+FD538,18/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Millicent (MLR / YMCT),11:33 AM,11,12:25 PM,52
+FD543,8/07/2022,Friday,PC12,Port Augusta (PUG / YPAG),Prominent Hill Mine (YPMH),10:27 AM,10,11:19 AM,52
+FD607,12/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),6:00 PM,18,6:52 PM,52
+FD629,16/07/2022,Saturday,PC12,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),9:33 AM,9,10:25 AM,52
+FD630J,17/07/2022,Sunday,PC24,Albany (ALH / YABA),Kalgoorlie-Boulder (KGI / YPKG),4:40 PM,16,5:32 PM,52
+FD874,15/07/2022,Friday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Maningrida (MNG / YMGD),3:45 PM,15,4:37 PM,52
+AM273,8/07/2022,Friday,B350,Moree (MRZ / YMOR),Newcastle-Williamtown Airport / RAAF (NTL / YWLM),9:19 AM,9,10:12 AM,53
+AM273,9/07/2022,Saturday,B350,Sydney (SYD / YSSY),Wagga Wagga (WGA / YSWG),7:45 AM,7,8:38 AM,53
+FD416,5/07/2022,Tuesday,BE20,Bedourie (BEU / YBIE),Mount Isa (ISA / YBMA),5:25 PM,17,6:18 PM,53
+FD456,9/07/2022,Saturday,BE20,Rockhampton (ROK / YBRK),Roma (RMA / YROM),7:49 AM,7,8:42 AM,53
+FD478,4/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),12:16 PM,12,1:09 PM,53
+FD489,15/07/2022,Friday,BE20,Kowanyama (KWM / YKOW),Cooktown (CTN / YCKN),9:10 PM,21,10:03 PM,53
+FD538,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),8:11 AM,8,9:04 AM,53
+FD596,12/07/2022,Tuesday,PC12,Naracoorte (NAC / YNRC),Renmark (RMK / YREN),12:11 PM,12,1:04 PM,53
+FD601,16/07/2022,Saturday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Esperance (EPR / YESP),10:08 AM,10,11:01 AM,53
+FD602,17/07/2022,Sunday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),5:48 PM,17,6:41 PM,53
+FD608,15/07/2022,Friday,PC12,Port Hedland Int'l (PHE / YPPD),Paraburdoo (YPBO),9:38 PM,21,10:31 PM,53
+AM273,5/07/2022,Tuesday,B350,Sydney (SYD / YSSY),Port Macquarie (PQQ / YPMQ),11:41 AM,11,12:35 PM,54
+FD211,11/07/2022,Monday,B350,Dubbo (DBO / YSDU),Bourke (BRK / YBKE),8:10 AM,8,9:04 AM,54
+FD213,17/07/2022,Sunday,BE20,Bankstown (BWU / YSBK),Dubbo (DBO / YSDU),1:17 PM,13,2:11 PM,54
+FD416,17/07/2022,Sunday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),9:32 AM,9,10:26 AM,54
+FD423,13/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),7:59 AM,7,8:53 AM,54
+FD423,17/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),10:45 AM,10,11:39 AM,54
+FD478,4/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),5:26 PM,17,6:20 PM,54
+FD478,6/07/2022,Wednesday,BE20,Hervey Bay (HVB / YHBA),Rockhampton (ROK / YBRK),3:13 PM,15,4:07 PM,54
+FD478,17/07/2022,Sunday,BE20,Thangool (THG / YTNG),Brisbane (BNE / YBBN),9:50 AM,9,10:44 AM,54
+FD480,5/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Hughenden (HGD / YHUG),9:46 PM,21,10:40 PM,54
+FD480,6/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cairns Int'l (CNS / YBCS),10:35 PM,22,11:29 PM,54
+FD493,10/07/2022,Sunday,BE20,Mitchell (YMIT),Toowoomba (YTWB),9:59 AM,9,10:53 AM,54
+FD580,18/07/2022,Monday,PC12,Mount Gambier (MGB / YMTG),Kingscote (KGC / YKSC),7:00 PM,19,7:54 PM,54
+FD596,12/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Naracoorte (NAC / YNRC),10:36 AM,10,11:30 AM,54
+FD596,14/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),3:10 PM,15,4:04 PM,54
+FD602,5/07/2022,Tuesday,PC12,Esperance (EPR / YESP),Kalgoorlie-Boulder (KGI / YPKG),11:38 AM,11,12:32 PM,54
+FD607,9/07/2022,Saturday,PC12,Newman (ZNE / YNWN),Port Hedland Int'l (PHE / YPPD),4:14 PM,16,5:08 PM,54
+FD608,13/07/2022,Wednesday,PC12,Port Hedland Int'l (PHE / YPPD),Paraburdoo (YPBO),10:51 AM,10,11:45 AM,54
+FD617,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Albany (ALH / YABA),2:57 PM,14,3:51 PM,54
+FD629,14/07/2022,Thursday,PC12,Broome Int'l (BME / YBRM),Fitzroy Crossing (FIZ / YFTZ),6:01 PM,18,6:55 PM,54
+FD629,5/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Ravensthorpe (RVT / YNRV),5:39 AM,5,6:33 AM,54
+AM273,11/07/2022,Monday,B350,Merimbula (MIM / YMER),Sydney (SYD / YSSY),10:50 PM,22,11:45 PM,55
+FD213,17/07/2022,Sunday,BE20,Dubbo (DBO / YSDU),Wagga Wagga (WGA / YSWG),9:34 AM,9,10:29 AM,55
+FD416,11/07/2022,Monday,BE20,Mount Isa (ISA / YBMA),Bedourie (BEU / YBIE),8:05 AM,8,9:00 AM,55
+FD416,3/07/2022,Sunday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),9:22 PM,21,10:17 PM,55
+FD416,9/07/2022,Saturday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),1:18 AM,1,2:13 AM,55
+FD416,9/07/2022,Saturday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),12:46 PM,12,1:41 PM,55
+FD423,13/07/2022,Wednesday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),9:55 PM,21,10:50 PM,55
+FD423,10/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Moranbah (MOV / YMRB),8:19 PM,20,9:14 PM,55
+FD425,16/07/2022,Saturday,BE20,Alpha (ABH / YAPH),Rockhampton (ROK / YBRK),9:58 PM,21,10:53 PM,55
+FD449,17/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),5:54 PM,17,6:49 PM,55
+FD456,15/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Kingaroy (KGY / YKRY),8:15 AM,8,9:10 AM,55
+FD478,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Bundaberg (BDB / YBUD),12:43 AM,0,1:38 AM,55
+FD480,7/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Dysart (DYA / YDYS),1:15 PM,13,2:10 PM,55
+FD480,12/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Clermont (CMQ / YCMT),10:24 AM,10,11:19 AM,55
+FD534,15/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Wudinna (YWUD),3:38 AM,3,4:33 AM,55
+FD596,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),9:54 AM,9,10:49 AM,55
+FD596,8/07/2022,Friday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),11:41 AM,11,12:36 PM,55
+FD602,4/07/2022,Monday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Merredin (YMDN),9:05 PM,21,10:00 PM,55
+FD602,7/07/2022,Thursday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Wave Rock (YWRC),5:20 PM,17,6:15 PM,55
+FD607,12/07/2022,Tuesday,PC12,Fitzroy Crossing (FIZ / YFTZ),Broome Int'l (BME / YBRM),8:58 PM,20,9:53 PM,55
+FD629,12/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Albany (ALH / YABA),12:16 AM,0,1:11 AM,55
+FD856,15/07/2022,Friday,PC12,Hermannsburg (HMG / YHMB),Alice Springs (ASP / YBAS),10:11 AM,10,11:06 AM,55
+FD213,16/07/2022,Saturday,BE20,Bankstown (BWU / YSBK),Dubbo (DBO / YSDU),5:52 PM,17,6:48 PM,56
+FD248,16/07/2022,Saturday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),6:38 PM,18,7:34 PM,56
+FD427,14/07/2022,Thursday,B350,Brisbane (BNE / YBBN),Gladstone (GLT / YGLA),11:39 PM,23,12:35 AM,56
+FD427,17/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),7:25 PM,19,8:21 PM,56
+FD480,8/07/2022,Friday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),12:11 PM,12,1:07 PM,56
+FD489,7/07/2022,Thursday,BE20,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),9:36 AM,9,10:32 AM,56
+FD493,12/07/2022,Tuesday,BE20,Charleville (CTL / YBCV),Windorah (WNR / YWDH),7:27 AM,7,8:23 AM,56
+FD534,8/07/2022,Friday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),11:36 PM,23,12:32 AM,56
+FD534,11/07/2022,Monday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),12:58 PM,12,1:54 PM,56
+FD543,7/07/2022,Thursday,PC12,Todmorden (YTDM),Mungeranie (MNE / YMUG),2:54 PM,14,3:50 PM,56
+FD596,5/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),1:11 PM,13,2:07 PM,56
+FD596,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),9:52 AM,9,10:48 AM,56
+FD596,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Cowell (YCWL),6:16 PM,18,7:12 PM,56
+FD596,13/07/2022,Wednesday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),11:37 AM,11,12:33 PM,56
+FD629,14/07/2022,Thursday,PC12,Fitzroy Crossing (FIZ / YFTZ),Broome Int'l (BME / YBRM),9:45 PM,21,10:41 PM,56
+FD629,17/07/2022,Sunday,PC12,Fitzroy Crossing (FIZ / YFTZ),Broome Int'l (BME / YBRM),11:12 PM,23,12:08 AM,56
+FD629,5/07/2022,Tuesday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),2:58 AM,2,3:54 AM,56
+FD849,18/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Ayers Rock (AYQ / YAYE),5:22 PM,17,6:18 PM,56
+FD853,18/07/2022,Monday,PC12,Kintore (YKNT),Alice Springs (ASP / YBAS),3:12 PM,15,4:08 PM,56
+AM273,10/07/2022,Sunday,B350,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Sydney (SYD / YSSY),6:44 PM,18,7:41 PM,57
+FD278,12/07/2022,Tuesday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),5:05 PM,17,6:02 PM,57
+FD278,15/07/2022,Friday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),5:43 AM,5,6:40 AM,57
+FD416,11/07/2022,Monday,BE20,Bedourie (BEU / YBIE),Mount Isa (ISA / YBMA),9:42 AM,9,10:39 AM,57
+FD416,10/07/2022,Sunday,BE20,Mount Isa (ISA / YBMA),Mornington Island (ONG / YMTI),8:53 PM,20,9:50 PM,57
+FD416,11/07/2022,Monday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),10:17 PM,22,11:14 PM,57
+FD425,16/07/2022,Saturday,BE20,Rockhampton (ROK / YBRK),Alpha (ABH / YAPH),6:58 PM,18,7:55 PM,57
+FD449,5/07/2022,Tuesday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),7:48 PM,19,8:45 PM,57
+FD449,8/07/2022,Friday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),11:40 AM,11,12:37 PM,57
+FD489,12/07/2022,Tuesday,BE20,Croydon (YCRY),Cairns Int'l (CNS / YBCS),12:39 AM,0,1:36 AM,57
+FD534,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Wudinna (YWUD),4:09 PM,16,5:06 PM,57
+FD543,18/07/2022,Monday,PC12,Prominent Hill Mine (YPMH),Port Augusta (PUG / YPAG),1:56 PM,13,2:53 PM,57
+FD607,5/07/2022,Tuesday,PC12,Mount Barnet (YBAN),Broome Int'l (BME / YBRM),5:49 PM,17,6:46 PM,57
+FD629,16/07/2022,Saturday,PC12,Fitzroy Crossing (FIZ / YFTZ),Broome Int'l (BME / YBRM),10:45 AM,10,11:42 AM,57
+FD630J,7/07/2022,Thursday,PC24,Carnarvon (CVQ / YCAR),Newman (ZNE / YNWN),10:35 PM,22,11:32 PM,57
+FD856,8/07/2022,Friday,PC12,Tennant Creek (TCA / YTNK),Yuendumu (YUE / YYND),2:47 AM,2,3:44 AM,57
+AM273,11/07/2022,Monday,B350,Coonabarabran (COJ / YCBB),Sydney (SYD / YSSY),1:19 AM,1,2:17 AM,58
+AM273,6/07/2022,Wednesday,B350,Merimbula (MIM / YMER),Sydney (SYD / YSSY),6:13 AM,6,7:11 AM,58
+FD213,14/07/2022,Thursday,BE20,Dubbo (DBO / YSDU),Bankstown (BWU / YSBK),1:30 PM,13,2:28 PM,58
+FD416,12/07/2022,Tuesday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),2:44 PM,14,3:42 PM,58
+FD456,4/07/2022,Monday,BE20,Roma (RMA / YROM),Brisbane (BNE / YBBN),12:35 PM,12,1:33 PM,58
+FD478,12/07/2022,Tuesday,BE20,Barcaldine (BCI / YBAR),Rockhampton (ROK / YBRK),9:26 PM,21,10:24 PM,58
+FD480,10/07/2022,Sunday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),11:36 AM,11,12:34 PM,58
+FD534,15/07/2022,Friday,PC12,Renmark (RMK / YREN),Mount Gambier (MGB / YMTG),10:36 AM,10,11:34 AM,58
+FD543,8/07/2022,Friday,PC12,Prominent Hill Mine (YPMH),Port Augusta (PUG / YPAG),11:59 AM,11,12:57 PM,58
+FD596,5/07/2022,Tuesday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),2:46 PM,14,3:44 PM,58
+FD596,14/07/2022,Thursday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),5:59 PM,17,6:57 PM,58
+FD602,5/07/2022,Tuesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Merredin (YMDN),11:09 PM,23,12:07 AM,58
+FD602,18/07/2022,Monday,PC12,Shark Bay (MJK / YSHK),Geraldton (GET / YGEL),2:55 PM,14,3:53 PM,58
+FD608,7/07/2022,Thursday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),6:08 PM,18,7:06 PM,58
+FD617,5/07/2022,Tuesday,PC12,Meekatharra (MKR / YMEK),Newman (ZNE / YNWN),9:10 AM,9,10:08 AM,58
+FD619,12/07/2022,Tuesday,PC12,Geraldton (GET / YGEL),Meekatharra (MKR / YMEK),1:51 PM,13,2:49 PM,58
+FD874,15/07/2022,Friday,PC12,Maningrida (MNG / YMGD),Darwin Int'l / RAAF (DRW / YPDN),5:08 PM,17,6:06 PM,58
+FD427,10/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Gladstone (GLT / YGLA),8:30 PM,20,9:29 PM,59
+FD467,13/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Monto (YMTO),11:23 AM,11,12:22 PM,59
+FD493,4/07/2022,Monday,BE20,Dirranbandi (DRN / YDBI),Wellcamp Airport (WTB / YBWW),9:37 PM,21,10:36 PM,59
+FD534,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),7:35 PM,19,8:34 PM,59
+FD596,7/07/2022,Thursday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),11:20 AM,11,12:19 PM,59
+FD596,11/07/2022,Monday,PC12,Port Augusta (PUG / YPAG),Prominent Hill Mine (YPMH),11:49 AM,11,12:48 PM,59
+FD601,8/07/2022,Friday,PC12,Albany (ALH / YABA),Jandakot (JAD / YPJT),12:02 PM,12,1:01 PM,59
+FD608,15/07/2022,Friday,PC12,Port Hedland Int'l (PHE / YPPD),Paraburdoo (YPBO),12:56 AM,0,1:55 AM,59
+FD619,9/07/2022,Saturday,PC12,Meekatharra (MKR / YMEK),Newman (ZNE / YNWN),12:38 PM,12,1:37 PM,59
+FD629,12/07/2022,Tuesday,PC12,Albany (ALH / YABA),Jandakot (JAD / YPJT),1:56 AM,1,2:55 AM,59
+AM273,18/07/2022,Monday,B350,Coffs Harbour (YCFS),Sydney (SYD / YSSY),7:30 PM,19,8:30 PM,60
+FD416,9/07/2022,Saturday,BE20,Mount Isa (ISA / YBMA),Mornington Island (ONG / YMTI),7:40 PM,19,8:40 PM,60
+FD425,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Monto (YMTO),1:49 PM,13,2:49 PM,60
+FD449,6/07/2022,Wednesday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),1:59 PM,13,2:59 PM,60
+FD480,5/07/2022,Tuesday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),8:48 AM,8,9:48 AM,60
+FD480,12/07/2022,Tuesday,B350,Mackay (MKY / YBMK),Townsville Int'l / RAAF (TSV / YBTL),1:00 PM,13,2:00 PM,60
+FD534,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Mount Gambier (MGB / YMTG),4:39 PM,16,5:39 PM,60
+FD619,5/07/2022,Tuesday,PC12,Geraldton (GET / YGEL),Meekatharra (MKR / YMEK),8:12 PM,20,9:12 PM,60
+FD630J,12/07/2022,Tuesday,PC24,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),6:00 AM,6,7:00 AM,60
+FD630J,12/07/2022,Tuesday,PC24,Esperance (EPR / YESP),Jandakot (JAD / YPJT),4:53 PM,16,5:53 PM,60
+FD213,13/07/2022,Wednesday,BE20,Dubbo (DBO / YSDU),Sydney (SYD / YSSY),1:55 PM,13,2:56 PM,61
+FD278,11/07/2022,Monday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),6:33 PM,18,7:34 PM,61
+FD416,9/07/2022,Saturday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),10:16 PM,22,11:17 PM,61
+FD449,4/07/2022,Monday,B350,Rockhampton (ROK / YBRK),Mackay (MKY / YBMK),10:33 AM,10,11:34 AM,61
+FD480,6/07/2022,Wednesday,B350,Winton (WIN / YWTN),Townsville Int'l / RAAF (TSV / YBTL),8:35 PM,20,9:36 PM,61
+FD489,5/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),1:13 PM,13,2:14 PM,61
+FD602,10/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Geraldton (GET / YGEL),10:24 AM,10,11:25 AM,61
+FD608,7/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Geraldton (GET / YGEL),3:41 PM,15,4:42 PM,61
+FD619,16/07/2022,Saturday,PC12,Albany (ALH / YABA),Jandakot (JAD / YPJT),3:09 PM,15,4:10 PM,61
+FD629,17/07/2022,Sunday,PC12,Broome Int'l (BME / YBRM),Mornington Stn (YMNT),2:12 PM,14,3:13 PM,61
+FD849,5/07/2022,Tuesday,PC12,Alice Springs (ASP / YBAS),Ayers Rock (AYQ / YAYE),9:31 PM,21,10:32 PM,61
+FD849,10/07/2022,Sunday,PC12,Marla (YALA),Alice Springs (ASP / YBAS),11:17 AM,11,12:18 PM,61
+FD853,18/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Ayers Rock (AYQ / YAYE),12:05 PM,12,1:06 PM,61
+FD423,6/07/2022,Wednesday,B350,Mount Isa (ISA / YBMA),Hughenden (HGD / YHUG),4:12 PM,16,5:14 PM,62
+FD425,12/07/2022,Tuesday,BE20,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),8:59 AM,8,10:01 AM,62
+FD427,17/07/2022,Sunday,B350,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:00 PM,23,12:02 AM,62
+FD449,10/07/2022,Sunday,B350,Blackall (BKQ / YBCK),Rockhampton (ROK / YBRK),11:32 AM,11,12:34 PM,62
+FD467,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Maungindi (YMGI),7:52 AM,7,8:54 AM,62
+FD467,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Maroochydore/Sunshine Coast (MCY / YBSU),3:52 PM,15,4:54 PM,62
+FD489,11/07/2022,Monday,BE20,Cairns Int'l (CNS / YBCS),Croydon (YCRY),11:03 PM,23,12:05 AM,62
+FD489,8/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),8:04 AM,8,9:06 AM,62
+FD534,7/07/2022,Thursday,PC12,Mount Gambier (MGB / YMTG),Yorketown (YYOR),6:38 PM,18,7:40 PM,62
+FD596,5/07/2022,Tuesday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),8:33 PM,20,9:35 PM,62
+FD601,14/07/2022,Thursday,PC12,Southern Cross (SQC / YSCR),Jandakot (JAD / YPJT),2:29 AM,2,3:31 AM,62
+FD602,9/07/2022,Saturday,PC12,Albany (ALH / YABA),Jandakot (JAD / YPJT),1:31 AM,1,2:33 AM,62
+FD849,4/07/2022,Monday,PC12,Kintore (YKNT),Papunya (YPAY),11:14 PM,23,12:16 AM,62
+FD248,15/07/2022,Friday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),9:43 PM,21,10:46 PM,63
+FD416,8/07/2022,Friday,BE20,Mount Isa (ISA / YBMA),Mornington Island (ONG / YMTI),8:28 PM,20,9:31 PM,63
+FD416,5/07/2022,Tuesday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),2:36 AM,2,3:39 AM,63
+FD423,5/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Richmond (RCM / YRMD),2:28 PM,14,3:31 PM,63
+FD425,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Gladstone (GLT / YGLA),10:54 AM,10,11:57 AM,63
+FD425,16/07/2022,Saturday,BE20,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),1:53 AM,1,2:56 AM,63
+FD456,5/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),12:48 PM,12,1:51 PM,63
+FD456,11/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),10:51 PM,22,11:54 PM,63
+FD478,13/07/2022,Wednesday,BE20,Blackall (BKQ / YBCK),Rockhampton (ROK / YBRK),7:40 PM,19,8:43 PM,63
+FD489,17/07/2022,Sunday,BE20,Cairns Int'l (CNS / YBCS),Kowanyama (KWM / YKOW),9:24 AM,9,10:27 AM,63
+FD602,9/07/2022,Saturday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),4:19 PM,16,5:22 PM,63
+FD607,11/07/2022,Monday,PC12,Nullagine (YNUL),Eliwana (WHB / YEWA),11:25 PM,23,12:28 AM,63
+FD624J,4/07/2022,Monday,PC24,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),10:06 PM,22,11:09 PM,63
+FD624J,10/07/2022,Sunday,PC24,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),5:53 PM,17,6:56 PM,63
+FD874,6/07/2022,Wednesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Snake Bay (SNB / YSNK),7:44 PM,19,8:47 PM,63
+FD425,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Gladstone (GLT / YGLA),10:25 PM,22,11:29 PM,64
+FD427,17/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Thangool (THG / YTNG),6:36 AM,6,7:40 AM,64
+FD456,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Roma (RMA / YROM),8:11 AM,8,9:15 AM,64
+FD489,15/07/2022,Friday,BE20,Cairns Int'l (CNS / YBCS),Kowanyama (KWM / YKOW),7:31 PM,19,8:35 PM,64
+FD602,18/07/2022,Monday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),3:57 PM,15,5:01 PM,64
+FD607,5/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Mount Barnet (YBAN),3:43 PM,15,4:47 PM,64
+FD624J,16/07/2022,Saturday,PC24,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),11:47 PM,23,12:51 AM,64
+FD849,10/07/2022,Sunday,PC12,Alice Springs (ASP / YBAS),Marla (YALA),8:00 AM,8,9:04 AM,64
+FD248,14/07/2022,Thursday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),2:51 PM,14,3:56 PM,65
+FD416,5/07/2022,Tuesday,BE20,Normanton (YNTN),Mount Isa (ISA / YBMA),11:41 AM,11,12:46 PM,65
+FD427,15/07/2022,Friday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),12:59 AM,0,2:04 AM,65
+FD449,17/07/2022,Sunday,B350,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:28 AM,11,12:33 PM,65
+FD456,11/07/2022,Monday,BE20,Roma (RMA / YROM),Brisbane (BNE / YBBN),4:20 AM,4,5:25 AM,65
+FD467,7/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),1:15 PM,13,2:20 PM,65
+FD480,10/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cooktown (CTN / YCKN),2:05 PM,14,3:10 PM,65
+FD534,15/07/2022,Friday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),12:32 PM,12,1:37 PM,65
+FD538,17/07/2022,Sunday,PC12,Mount Gambier (MGB / YMTG),Adelaide Int'l (ADL / YPAD),12:43 PM,12,1:48 PM,65
+FD617,8/07/2022,Friday,PC12,Albany (ALH / YABA),Jandakot (JAD / YPJT),4:44 PM,16,5:49 PM,65
+FD619,16/07/2022,Saturday,PC12,Esperance (EPR / YESP),Albany (ALH / YABA),1:36 PM,13,2:41 PM,65
+FD629,17/07/2022,Sunday,PC12,Mornington Stn (YMNT),Broome Int'l (BME / YBRM),3:46 PM,15,4:51 PM,65
+AM273,10/07/2022,Sunday,B350,Sydney (SYD / YSSY),Moree (MRZ / YMOR),1:19 PM,13,2:25 PM,66
+FD278,16/07/2022,Saturday,BE20,Adelaide Int'l (ADL / YPAD),Broken Hill (BHQ / YBHI),2:01 AM,2,3:07 AM,66
+FD449,8/07/2022,Friday,B350,Blackall (BKQ / YBCK),Rockhampton (ROK / YBRK),2:16 AM,2,3:22 AM,66
+FD449,7/07/2022,Thursday,B350,Maryborough (MBH / YMYB),Goondiwindi (GOO / YGDI),12:51 PM,12,1:57 PM,66
+FD456,7/07/2022,Thursday,BE20,Blackall (BKQ / YBCK),Rockhampton (ROK / YBRK),11:23 PM,23,12:29 AM,66
+FD456,8/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),1:54 AM,1,3:00 AM,66
+FD478,16/07/2022,Saturday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),9:46 AM,9,10:52 AM,66
+FD478,5/07/2022,Tuesday,BE20,Roma (RMA / YROM),Brisbane (BNE / YBBN),1:30 PM,13,2:36 PM,66
+FD493,8/07/2022,Friday,BE20,Charleville (CTL / YBCV),Toowoomba (YTWB),7:49 PM,19,8:55 PM,66
+FD493,11/07/2022,Monday,BE20,Charleville (CTL / YBCV),Toowoomba (YTWB),10:21 PM,22,11:27 PM,66
+FD534,15/07/2022,Friday,PC12,Port Lincoln (PLO / YPLC),Ceduna (CED / YCDU),5:02 PM,17,6:08 PM,66
+FD580,16/07/2022,Saturday,PC12,Ceduna (CED / YCDU),Adelaide Int'l (ADL / YPAD),11:57 AM,11,1:03 PM,66
+FD580,11/07/2022,Monday,PC12,Yorketown (YYOR),Ceduna (CED / YCDU),3:49 PM,15,4:55 PM,66
+FD602,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),2:06 AM,2,3:12 AM,66
+FD608,15/07/2022,Friday,PC12,Port Hedland Int'l (PHE / YPPD),Onslow (ONS / YOLW),10:06 AM,10,11:12 AM,66
+FD619,13/07/2022,Wednesday,PC12,Meekatharra (MKR / YMEK),Paraburdoo (YPBO),4:04 PM,16,5:10 PM,66
+FD629,4/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Geraldton (GET / YGEL),1:03 AM,1,2:09 AM,66
+FD630J,17/07/2022,Sunday,PC24,Kalgoorlie-Boulder (KGI / YPKG),Jandakot (JAD / YPJT),6:21 PM,18,7:27 PM,66
+FD853,8/07/2022,Friday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),2:55 PM,14,4:01 PM,66
+FD853,15/07/2022,Friday,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),4:42 PM,16,5:48 PM,66
+FD423,12/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cooktown (CTN / YCKN),8:10 PM,20,9:17 PM,67
+FD456,5/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),4:35 AM,4,5:42 AM,67
+FD456,14/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Maroochydore/Sunshine Coast (MCY / YBSU),9:23 AM,9,10:30 AM,67
+FD478,4/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),2:56 PM,14,4:03 PM,67
+FD480,11/07/2022,Monday,B350,Longreach (YLRE),Townsville Int'l / RAAF (TSV / YBTL),6:30 PM,18,7:37 PM,67
+FD489,17/07/2022,Sunday,BE20,Kowanyama (KWM / YKOW),Cairns Int'l (CNS / YBCS),10:52 AM,10,11:59 AM,67
+FD619,15/07/2022,Friday,PC12,Newman (ZNE / YNWN),Meekatharra (MKR / YMEK),8:10 PM,20,9:17 PM,67
+FD849,4/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Kintore (YKNT),9:48 PM,21,10:55 PM,67
+AM273,18/07/2022,Monday,B350,Sydney (SYD / YSSY),Albury (ABX / YMAY),7:52 AM,7,9:00 AM,68
+FD427,10/07/2022,Sunday,B350,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),1:38 PM,13,2:46 PM,68
+FD449,4/07/2022,Monday,B350,Rockhampton (ROK / YBRK),Rockhampton (ROK / YBRK),7:38 AM,7,8:46 AM,68
+FD449,17/07/2022,Sunday,B350,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),4:46 PM,16,5:54 PM,68
+FD456,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),7:04 PM,19,8:12 PM,68
+FD456,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),6:37 AM,6,7:45 AM,68
+FD478,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:06 AM,11,12:14 PM,68
+FD493,14/07/2022,Thursday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),11:03 PM,23,12:11 AM,68
+FD602,15/07/2022,Friday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),12:14 PM,12,1:22 PM,68
+FD849,18/07/2022,Monday,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),3:18 PM,15,4:26 PM,68
+FD853,15/07/2022,Friday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),9:03 AM,9,10:11 AM,68
+FD278,11/07/2022,Monday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),3:10 PM,15,4:19 PM,69
+FD427,14/07/2022,Thursday,B350,Charleville (CTL / YBCV),Wellcamp Airport (WTB / YBWW),3:35 PM,15,4:44 PM,69
+FD456,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),4:12 PM,16,5:21 PM,69
+FD456,9/07/2022,Saturday,BE20,Longreach (YLRE),Rockhampton (ROK / YBRK),11:19 AM,11,12:28 PM,69
+FD478,8/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),8:00 PM,20,9:09 PM,69
+FD489,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),9:51 PM,21,11:00 PM,69
+FD602,4/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),11:47 PM,23,12:56 AM,69
+FD607,18/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),5:42 AM,5,6:51 AM,69
+FD607,12/07/2022,Tuesday,PC12,Port Hedland Int'l (PHE / YPPD),Broome Int'l (BME / YBRM),2:39 AM,2,3:48 AM,69
+FD607,12/07/2022,Tuesday,PC12,Port Hedland Int'l (PHE / YPPD),Broome Int'l (BME / YBRM),2:40 AM,2,3:49 AM,69
+FD624J,8/07/2022,Friday,PC24,Newman (ZNE / YNWN),Fitzroy Crossing (FIZ / YFTZ),6:54 PM,18,8:03 PM,69
+FD853,11/07/2022,Monday,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),9:20 AM,9,10:29 AM,69
+FD856,8/07/2022,Friday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),12:39 AM,0,1:48 AM,69
+FD478,17/07/2022,Sunday,BE20,Toowoomba (YTWB),Rockhampton (ROK / YBRK),10:30 PM,22,11:40 PM,70
+FD489,8/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Roma (RMA / YROM),12:13 PM,12,1:23 PM,70
+FD489,11/07/2022,Monday,BE20,Pormpuraaw (EDR / YPMP),Cairns Int'l (CNS / YBCS),8:40 PM,20,9:50 PM,70
+FD602,5/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),3:38 AM,3,4:48 AM,70
+FD607,18/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),1:40 PM,13,2:50 PM,70
+FD607,9/07/2022,Saturday,PC12,Port Hedland Int'l (PHE / YPPD),Broome Int'l (BME / YBRM),5:55 PM,17,7:05 PM,70
+FD619,16/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Esperance (EPR / YESP),11:33 AM,11,12:43 PM,70
+FD629,17/07/2022,Sunday,PC12,Port Hedland Int'l (PHE / YPPD),Broome Int'l (BME / YBRM),3:03 AM,3,4:13 AM,70
+FD449,11/07/2022,Monday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),1:36 PM,13,2:47 PM,71
+FD478,15/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),9:24 PM,21,10:35 PM,71
+FD530,16/07/2022,Saturday,PC12,Ceduna (CED / YCDU),Adelaide Int'l (ADL / YPAD),8:31 PM,20,9:42 PM,71
+FD601,7/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),4:12 AM,4,5:23 AM,71
+FD602,18/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),6:40 PM,18,7:51 PM,71
+FD607,12/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Kalumburu (UBU / YKAL),3:16 PM,15,4:27 PM,71
+FD607,16/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),3:44 PM,15,4:55 PM,71
+FD849,13/07/2022,Wednesday,PC12,Mount Davies (YMDV),Alice Springs (ASP / YBAS),7:00 PM,19,8:11 PM,71
+FD853,8/07/2022,Friday,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),4:32 PM,16,5:43 PM,71
+FD853,18/07/2022,Monday,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),9:13 AM,9,10:24 AM,71
+FD248,15/07/2022,Friday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),4:37 PM,16,5:49 PM,72
+FD278,15/07/2022,Friday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),1:16 AM,1,2:28 AM,72
+FD449,17/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),2:00 PM,14,3:12 PM,72
+FD449,9/07/2022,Saturday,B350,Emerald (EMD / YEML),Brisbane (BNE / YBBN),9:03 PM,21,10:15 PM,72
+FD456,14/07/2022,Thursday,BE20,Longreach (YLRE),Rockhampton (ROK / YBRK),3:42 PM,15,4:54 PM,72
+FD456,6/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),2:29 PM,14,3:41 PM,72
+FD456,16/07/2022,Saturday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:56 AM,11,1:08 PM,72
+FD478,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Moura (YMOU),2:14 PM,14,3:26 PM,72
+FD489,11/07/2022,Monday,BE20,Cairns Int'l (CNS / YBCS),Pormpuraaw (EDR / YPMP),7:09 PM,19,8:21 PM,72
+FD601,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),7:58 PM,19,9:10 PM,72
+FD601,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),4:53 AM,4,6:05 AM,72
+FD601,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),4:35 PM,16,5:47 PM,72
+FD623,15/07/2022,Friday,PC12,Newman (ZNE / YNWN),Broome Int'l (BME / YBRM),5:25 PM,17,6:37 PM,72
+FD853,11/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),7:45 AM,7,8:57 AM,72
+FD278,15/07/2022,Friday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),10:15 PM,22,11:28 PM,73
+FD427,17/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),8:17 PM,20,9:30 PM,73
+FD427,10/07/2022,Sunday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),11:25 PM,23,12:38 AM,73
+FD456,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),1:46 PM,13,2:59 PM,73
+FD478,6/07/2022,Wednesday,BE20,Bundaberg (BDB / YBUD),Emerald (EMD / YEML),6:18 AM,6,7:31 AM,73
+FD580,8/07/2022,Friday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),6:06 PM,18,7:19 PM,73
+FD601,7/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),2:09 PM,14,3:22 PM,73
+FD601,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),2:47 PM,14,4:00 PM,73
+FD619,8/07/2022,Friday,PC12,Meekatharra (MKR / YMEK),Geraldton (GET / YGEL),1:34 PM,13,2:47 PM,73
+FD853,18/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),7:41 AM,7,8:54 AM,73
+AM273,8/07/2022,Friday,B350,Sydney (SYD / YSSY),Moree (MRZ / YMOR),7:12 AM,7,8:26 AM,74
+FD449,12/07/2022,Tuesday,B350,Emerald (EMD / YEML),Quilpie (ULP / YQLP),12:39 PM,12,1:53 PM,74
+FD449,9/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Rockhampton (ROK / YBRK),4:42 PM,16,5:56 PM,74
+FD478,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),1:15 PM,13,2:29 PM,74
+FD478,5/07/2022,Tuesday,BE20,Longreach (YLRE),Roma (RMA / YROM),11:17 AM,11,12:31 PM,74
+FD480,7/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Winton (WIN / YWTN),7:37 AM,7,8:51 AM,74
+FD493,7/07/2022,Thursday,BE20,Thargomindah (XTG / YTGM),Birdsville (BVI / YBDV),11:07 AM,11,12:21 PM,74
+FD534,13/07/2022,Wednesday,PC12,Ceduna (CED / YCDU),Adelaide Int'l (ADL / YPAD),5:11 AM,5,6:25 AM,74
+FD543,12/07/2022,Tuesday,PC12,Port Augusta (PUG / YPAG),Oodnadatta (YOOD),9:18 AM,9,10:32 AM,74
+FD607,11/07/2022,Monday,PC12,Broome Int'l (BME / YBRM),Nullagine (YNUL),9:28 PM,21,10:42 PM,74
+AM273,18/07/2022,Monday,B350,Sydney (SYD / YSSY),Moree (MRZ / YMOR),2:59 PM,14,4:14 PM,75
+FD248,14/07/2022,Thursday,BE20,Adelaide Int'l (ADL / YPAD),White Cliffs (YWHC),5:45 PM,17,7:00 PM,75
+FD278,12/07/2022,Tuesday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),1:50 PM,13,3:05 PM,75
+FD416,9/07/2022,Saturday,BE20,Birdsville (BVI / YBDV),Mount Isa (ISA / YBMA),9:25 AM,9,10:40 AM,75
+FD449,10/07/2022,Sunday,B350,Rockhampton (ROK / YBRK),Blackall (BKQ / YBCK),7:02 AM,7,8:17 AM,75
+FD478,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),2:12 AM,2,3:27 AM,75
+FD580,8/07/2022,Friday,PC12,Ceduna (CED / YCDU),Adelaide Int'l (ADL / YPAD),8:22 PM,20,9:37 PM,75
+FD602,10/07/2022,Sunday,PC12,Geraldton (GET / YGEL),Bunbury (BUY / YBUN),1:58 PM,13,3:13 PM,75
+FD607,6/07/2022,Wednesday,PC12,Halls Creek (HCQ / YHLC),One Arm Point (YOAP),3:49 PM,15,5:04 PM,75
+FD619,11/07/2022,Monday,PC12,Geraldton (GET / YGEL),Jandakot (JAD / YPJT),1:59 PM,13,3:14 PM,75
+FD629,5/07/2022,Tuesday,PC12,Ravensthorpe (RVT / YNRV),Jandakot (JAD / YPJT),7:58 AM,7,9:13 AM,75
+FD874,8/07/2022,Friday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Elcho Island (ELC / YELD),8:41 AM,8,9:56 AM,75
+AM273,9/07/2022,Saturday,B350,Cobar (CAZ / YCBA),Sydney (SYD / YSSY),1:26 AM,1,2:42 AM,76
+FD467,14/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),8:28 AM,8,9:44 AM,76
+FD467,15/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),7:27 PM,19,8:43 PM,76
+FD489,18/07/2022,Monday,BE20,Aurukun (AUU / YAUR),Cairns Int'l (CNS / YBCS),10:45 AM,10,12:01 PM,76
+FD493,11/07/2022,Monday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),1:47 AM,1,3:03 AM,76
+FD543,13/07/2022,Wednesday,PC12,Yalata Mission (YYTA),Port Augusta (PUG / YPAG),5:04 PM,17,6:20 PM,76
+FD580,11/07/2022,Monday,PC12,Ceduna (CED / YCDU),Kingscote (KGC / YKSC),5:41 PM,17,6:57 PM,76
+FD602,17/07/2022,Sunday,PC12,Meekatharra (MKR / YMEK),Geraldton (GET / YGEL),3:50 PM,15,5:06 PM,76
+FD874,8/07/2022,Friday,PC12,Elcho Island (ELC / YELD),Darwin Int'l / RAAF (DRW / YPDN),10:26 AM,10,11:42 AM,76
+FD874,5/07/2022,Tuesday,PC12,Kalkgurung (KFG / YKKG),Darwin Int'l / RAAF (DRW / YPDN),12:18 PM,12,1:34 PM,76
+AM273,7/07/2022,Thursday,B350,Sydney (SYD / YSSY),Tamworth (TMW / YSTW),7:04 AM,7,8:21 AM,77
+FD449,8/07/2022,Friday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),5:59 PM,17,7:16 PM,77
+FD456,17/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:58 AM,11,1:15 PM,77
+FD489,18/07/2022,Monday,BE20,Cairns Int'l (CNS / YBCS),Aurukun (AUU / YAUR),9:03 AM,9,10:20 AM,77
+FD493,6/07/2022,Wednesday,BE20,Birdsville (BVI / YBDV),Charleville (CTL / YBCV),3:18 PM,15,4:35 PM,77
+FD493,7/07/2022,Thursday,BE20,Roma (RMA / YROM),Thargomindah (XTG / YTGM),4:15 PM,16,5:32 PM,77
+FD534,13/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),3:21 AM,3,4:38 AM,77
+FD534,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Olympic Dam (OLP / YOLD),10:26 PM,22,11:43 PM,77
+FD543,7/07/2022,Thursday,PC12,Mungeranie (MNE / YMUG),Port Augusta (PUG / YPAG),5:09 PM,17,6:26 PM,77
+FD623,15/07/2022,Friday,PC12,Broome Int'l (BME / YBRM),Mitchell Plateau (YMIP),2:26 PM,14,3:43 PM,77
+FD456,11/07/2022,Monday,BE20,Longreach (YLRE),Roma (RMA / YROM),2:16 AM,2,3:34 AM,78
+FD489,8/07/2022,Friday,BE20,Toowoomba (YTWB),Rockhampton (ROK / YBRK),2:50 PM,14,4:08 PM,78
+FD493,10/07/2022,Sunday,BE20,Charleville (CTL / YBCV),Toowoomba (YTWB),8:36 PM,20,9:54 PM,78
+FD856,15/07/2022,Friday,PC12,Alice Springs (ASP / YBAS),Hermannsburg (HMG / YHMB),9:24 AM,9,10:42 AM,78
+FD456,11/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),6:48 PM,18,8:07 PM,79
+FD467,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),11:08 AM,11,12:27 PM,79
+FD478,13/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),2:20 PM,14,3:39 PM,79
+FD480,6/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Winton (WIN / YWTN),6:48 PM,18,8:07 PM,79
+FD493,15/07/2022,Friday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),12:57 AM,0,2:16 AM,79
+FD596,18/07/2022,Monday,PC12,Cleve (CVC / YCEE),Coober Pedy (CPD / YCBP),12:31 PM,12,1:50 PM,79
+FD602,16/07/2022,Saturday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Meekatharra (MKR / YMEK),7:18 PM,19,8:37 PM,79
+FD423,18/07/2022,Monday,B350,Cairns Int'l (CNS / YBCS),Weipa (WEI / YBWP),2:03 PM,14,3:23 PM,80
+FD427,14/07/2022,Thursday,B350,Wellcamp Airport (WTB / YBWW),Charleville (CTL / YBCV),12:54 PM,12,2:14 PM,80
+FD456,9/07/2022,Saturday,BE20,Roma (RMA / YROM),Longreach (YLRE),9:33 AM,9,10:53 AM,80
+FD467,14/07/2022,Thursday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),11:48 AM,11,1:08 PM,80
+FD489,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),2:57 PM,14,4:17 PM,80
+FD530,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),6:33 PM,18,7:53 PM,80
+FD534,17/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),6:33 PM,18,7:53 PM,80
+FD601,6/07/2022,Wednesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Narrogin (YNRG),12:35 AM,0,1:55 AM,80
+FD609,5/07/2022,Tuesday,PC12,Halls Creek (HCQ / YHLC),Broome Int'l (BME / YBRM),5:12 PM,17,6:32 PM,80
+FD630J,7/07/2022,Thursday,PC24,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),7:46 PM,19,9:06 PM,80
+AM273,8/07/2022,Friday,B350,Sydney (SYD / YSSY),Cobar (CAZ / YCBA),11:07 PM,23,12:28 AM,81
+FD416,9/07/2022,Saturday,BE20,Mount Isa (ISA / YBMA),Birdsville (BVI / YBDV),7:42 AM,7,9:03 AM,81
+FD423,14/07/2022,Thursday,B350,Normanton (YNTN),Townsville Int'l / RAAF (TSV / YBTL),10:00 PM,22,11:21 PM,81
+FD449,6/07/2022,Wednesday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),5:21 PM,17,6:42 PM,81
+FD456,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Goondiwindi (GOO / YGDI),8:19 PM,20,9:40 PM,81
+FD456,9/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),1:12 AM,1,2:33 AM,81
+FD493,10/07/2022,Sunday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),1:53 PM,13,3:14 PM,81
+FD601,8/07/2022,Friday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Albany (ALH / YABA),10:22 AM,10,11:43 AM,81
+FD608,14/07/2022,Thursday,PC12,Port Hedland Int'l (PHE / YPPD),RAAF Learmonth (LEA / YPLM),1:56 PM,13,3:17 PM,81
+FD609,15/07/2022,Friday,PC12,Derby (DRB / YDBY),Broome Int'l (BME / YBRM),7:27 PM,19,8:48 PM,81
+FD449,12/07/2022,Tuesday,B350,Quilpie (ULP / YQLP),Wellcamp Airport (WTB / YBWW),2:35 PM,14,3:57 PM,82
+FD456,4/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Roma (RMA / YROM),9:38 AM,9,11:00 AM,82
+FD489,16/07/2022,Saturday,BE20,Weipa (WEI / YBWP),Cairns Int'l (CNS / YBCS),10:51 PM,22,12:13 AM,82
+FD493,7/07/2022,Thursday,BE20,Birdsville (BVI / YBDV),Charleville (CTL / YBCV),11:46 PM,23,1:08 AM,82
+FD607,11/07/2022,Monday,PC12,Kununurra (KNX / YPKU),One Arm Point (YOAP),5:08 PM,17,6:30 PM,82
+FD619,15/07/2022,Friday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),9:02 PM,21,10:24 PM,82
+FD849,16/07/2022,Saturday,PC12,Tanami (YTMN),Alice Springs (ASP / YBAS),1:57 PM,13,3:19 PM,82
+FD449,8/07/2022,Friday,B350,Rockhampton (ROK / YBRK),Blackall (BKQ / YBCK),12:26 AM,0,1:49 AM,83
+FD467,15/07/2022,Friday,BE20,Rockhampton (ROK / YBRK),Brisbane (BNE / YBBN),9:52 PM,21,11:15 PM,83
+FD478,12/07/2022,Tuesday,BE20,Rockhampton (ROK / YBRK),Barcaldine (BCI / YBAR),7:41 PM,19,9:04 PM,83
+FD602,15/07/2022,Friday,PC12,Meekatharra (MKR / YMEK),Geraldton (GET / YGEL),10:05 AM,10,11:28 AM,83
+FD609,5/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Halls Creek (HCQ / YHLC),3:28 PM,15,4:51 PM,83
+FD423,11/07/2022,Monday,B350,Townsville Int'l / RAAF (TSV / YBTL),Normanton (YNTN),8:31 AM,8,9:55 AM,84
+FD423,18/07/2022,Monday,B350,Weipa (WEI / YBWP),Cairns Int'l (CNS / YBCS),3:57 PM,15,5:21 PM,84
+FD456,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),11:18 AM,11,12:42 PM,84
+FD480,12/07/2022,Tuesday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),7:01 PM,19,8:25 PM,84
+FD493,15/07/2022,Friday,BE20,Birdsville (BVI / YBDV),Charleville (CTL / YBCV),9:26 PM,21,10:50 PM,84
+FD493,17/07/2022,Sunday,BE20,Charleville (CTL / YBCV),Brisbane (BNE / YBBN),7:57 PM,19,9:21 PM,84
+FD534,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),2:42 PM,14,4:06 PM,84
+FD543,16/07/2022,Saturday,PC12,Oodnadatta (YOOD),Port Augusta (PUG / YPAG),5:47 PM,17,7:11 PM,84
+FD580,10/07/2022,Sunday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),2:42 PM,14,4:06 PM,84
+FD624J,13/07/2022,Wednesday,PC24,Paraburdoo (YPBO),Jandakot (JAD / YPJT),12:56 AM,0,2:20 AM,84
+AM273,18/07/2022,Monday,B350,Brisbane (BNE / YBBN),Sydney (SYD / YSSY),7:40 PM,19,9:05 PM,85
+FD416,5/07/2022,Tuesday,BE20,Mount Isa (ISA / YBMA),Birdsville (BVI / YBDV),2:27 PM,14,3:52 PM,85
+FD456,10/07/2022,Sunday,BE20,Longreach (YLRE),Taroom (XTO / YTAM),1:26 PM,13,2:51 PM,85
+FD607,6/07/2022,Wednesday,PC12,Broome Int'l (BME / YBRM),Halls Creek (HCQ / YHLC),1:47 PM,13,3:12 PM,85
+FD619,5/07/2022,Tuesday,PC12,Meekatharra (MKR / YMEK),Shark Bay (MJK / YSHK),4:27 PM,16,5:52 PM,85
+FD623,15/07/2022,Friday,PC12,Mitchell Plateau (YMIP),Lagrange Bay (YLGB),4:25 PM,16,5:50 PM,85
+FD630J,16/07/2022,Saturday,PC24,Jandakot (JAD / YPJT),Newman (ZNE / YNWN),12:35 PM,12,2:00 PM,85
+FD427,10/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),11:16 AM,11,12:42 PM,86
+FD478,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),4:25 PM,16,5:51 PM,86
+FD543,12/07/2022,Tuesday,PC12,Oodnadatta (YOOD),Port Augusta (PUG / YPAG),5:10 PM,17,6:36 PM,86
+FD874,5/07/2022,Tuesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Kalkgurung (KFG / YKKG),10:35 AM,10,12:01 PM,86
+FD416,4/07/2022,Monday,BE20,Cloncurry (CNJ / YCCY),Townsville Int'l / RAAF (TSV / YBTL),8:45 PM,20,10:12 PM,87
+FD423,14/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Normanton (YNTN),8:11 PM,20,9:38 PM,87
+FD449,4/07/2022,Monday,B350,Gladstone (GLT / YGLA),Brisbane (BNE / YBBN),9:11 PM,21,10:38 PM,87
+FD456,12/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),4:10 AM,4,5:37 AM,87
+FD480,9/07/2022,Saturday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),12:48 AM,0,2:15 AM,87
+FD493,12/07/2022,Tuesday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),1:12 AM,1,2:39 AM,87
+FD493,4/07/2022,Monday,BE20,Wellcamp Airport (WTB / YBWW),Charleville (CTL / YBCV),11:51 PM,23,1:18 AM,87
+FD543,14/07/2022,Thursday,PC12,Ernabella (ERB / YERN),Marree (YMRE),1:39 PM,13,3:06 PM,87
+FD543,13/07/2022,Wednesday,PC12,Port Augusta (PUG / YPAG),Yalata Mission (YYTA),9:18 AM,9,10:45 AM,87
+FD580,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),8:31 AM,8,9:58 AM,87
+FD619,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),7:13 PM,19,8:40 PM,87
+FD619,11/07/2022,Monday,PC12,Meekatharra (MKR / YMEK),Geraldton (GET / YGEL),11:38 AM,11,1:05 PM,87
+FD248,16/07/2022,Saturday,BE20,Broken Hill (BHQ / YBHI),Adelaide Int'l (ADL / YPAD),2:41 PM,14,4:09 PM,88
+FD449,10/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Emerald (EMD / YEML),1:14 AM,1,2:42 AM,88
+FD449,12/07/2022,Tuesday,B350,Wellcamp Airport (WTB / YBWW),Emerald (EMD / YEML),5:04 PM,17,6:32 PM,88
+FD480,9/07/2022,Saturday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),1:59 PM,13,3:27 PM,88
+FD602,15/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),2:15 PM,14,3:43 PM,88
+FD607,7/07/2022,Thursday,PC12,Broome Int'l (BME / YBRM),Billiluna (YBIL),1:00 PM,13,2:28 PM,88
+FD609,11/07/2022,Monday,PC12,Karratha (KTA / YPKA),Broome Int'l (BME / YBRM),4:12 PM,16,5:40 PM,88
+FD619,12/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),12:05 AM,0,1:33 AM,88
+FD619,6/07/2022,Wednesday,PC12,Meekatharra (MKR / YMEK),Carnarvon (CVQ / YCAR),11:34 AM,11,1:02 PM,88
+FD624J,8/07/2022,Friday,PC24,Jandakot (JAD / YPJT),Newman (ZNE / YNWN),4:57 PM,16,6:25 PM,88
+FD423,16/07/2022,Saturday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),1:42 PM,13,3:11 PM,89
+FD478,13/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Blackall (BKQ / YBCK),5:03 PM,17,6:32 PM,89
+FD489,16/07/2022,Saturday,BE20,Cairns Int'l (CNS / YBCS),Weipa (WEI / YBWP),7:22 PM,19,8:51 PM,89
+FD530,16/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Ceduna (CED / YCDU),6:14 PM,18,7:43 PM,89
+FD543,16/07/2022,Saturday,PC12,Port Augusta (PUG / YPAG),Oodnadatta (YOOD),8:23 AM,8,9:52 AM,89
+FD619,11/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),6:00 PM,18,7:29 PM,89
+FD534,9/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Coober Pedy (CPD / YCBP),5:51 PM,17,7:21 PM,90
+FD580,9/07/2022,Saturday,PC12,Adelaide Int'l (ADL / YPAD),Coober Pedy (CPD / YCBP),5:51 PM,17,7:21 PM,90
+FD596,7/07/2022,Thursday,PC12,Adelaide Int'l (ADL / YPAD),Essendon (MEB / YMEN),1:35 PM,13,3:05 PM,90
+FD602,17/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),8:51 PM,20,10:21 PM,90
+FD602,17/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),8:51 PM,20,10:21 PM,90
+FD602,4/07/2022,Monday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Jandakot (JAD / YPJT),1:34 AM,1,3:04 AM,90
+FD602,6/07/2022,Wednesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Warburton (YWBR),11:22 AM,11,12:52 PM,90
+FD602,4/07/2022,Monday,PC12,Warburton (YWBR),Leinster (LER / YLST),4:08 PM,16,5:38 PM,90
+FD619,7/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),3:35 PM,15,5:05 PM,90
+FD619,12/07/2022,Tuesday,PC12,Meekatharra (MKR / YMEK),Shark Bay (MJK / YSHK),9:46 AM,9,11:16 AM,90
+FD629,16/07/2022,Saturday,PC12,Halls Creek (HCQ / YHLC),Broome Int'l (BME / YBRM),3:51 PM,15,5:21 PM,90
+FD629,13/07/2022,Wednesday,PC12,Shark Bay (MJK / YSHK),Jandakot (JAD / YPJT),8:00 PM,20,9:30 PM,90
+FD630J,4/07/2022,Monday,PC24,Jandakot (JAD / YPJT),Paraburdoo (YPBO),12:24 PM,12,1:54 PM,90
+FD849,13/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),1:53 PM,13,3:23 PM,90
+FD849,16/07/2022,Saturday,PC12,Alice Springs (ASP / YBAS),Tanami (YTMN),11:37 AM,11,1:07 PM,90
+FD856,13/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Alice Springs (ASP / YBAS),1:53 PM,13,3:23 PM,90
+FD416,4/07/2022,Monday,BE20,Winton (WIN / YWTN),Townsville Int'l / RAAF (TSV / YBTL),12:58 PM,12,2:29 PM,91
+FD423,18/07/2022,Monday,B350,Weipa (WEI / YBWP),Cairns Int'l (CNS / YBCS),3:57 PM,15,5:28 PM,91
+FD449,7/07/2022,Thursday,B350,Brisbane (BNE / YBBN),Emerald (EMD / YEML),4:48 PM,16,6:19 PM,91
+FD456,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),12:35 AM,0,2:06 AM,91
+FD456,10/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Brisbane (BNE / YBBN),4:55 PM,16,6:26 PM,91
+FD449,14/07/2022,Thursday,B350,Brisbane (BNE / YBBN),Emerald (EMD / YEML),11:51 PM,23,1:23 AM,92
+FD467,18/07/2022,Monday,BE20,Emerald (EMD / YEML),Brisbane (BNE / YBBN),3:21 PM,15,4:53 PM,92
+FD493,9/07/2022,Saturday,BE20,Toowoomba (YTWB),Charleville (CTL / YBCV),2:40 AM,2,4:12 AM,92
+FD596,7/07/2022,Thursday,PC12,Essendon (MEB / YMEN),Adelaide Int'l (ADL / YPAD),5:30 PM,17,7:02 PM,92
+FD602,4/07/2022,Monday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Warburton (YWBR),2:06 PM,14,3:38 PM,92
+FD849,13/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Mount Davies (YMDV),5:00 PM,17,6:32 PM,92
+FD416,16/07/2022,Saturday,BE20,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),10:40 AM,10,12:13 PM,93
+FD449,5/07/2022,Tuesday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),10:32 PM,22,12:05 AM,93
+FD449,14/07/2022,Thursday,B350,Brisbane (BNE / YBBN),Emerald (EMD / YEML),12:54 AM,0,2:27 AM,93
+FD449,4/07/2022,Monday,B350,Mackay (MKY / YBMK),Brisbane (BNE / YBBN),2:09 PM,14,3:42 PM,93
+FD489,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Blackwater (BLT / YBTR),11:51 PM,23,1:24 AM,93
+FD601,16/07/2022,Saturday,PC12,Esperance (EPR / YESP),Jandakot (JAD / YPJT),11:46 AM,11,1:19 PM,93
+FD617,4/07/2022,Monday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),7:39 PM,19,9:12 PM,93
+FD619,10/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),4:12 PM,16,5:45 PM,93
+FD630J,12/07/2022,Tuesday,PC24,RAAF Learmonth (LEA / YPLM),Jandakot (JAD / YPJT),10:05 AM,10,11:38 AM,93
+FD456,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),8:35 AM,8,10:09 AM,94
+FD480,16/07/2022,Saturday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),2:57 PM,14,4:31 PM,94
+FD480,17/07/2022,Sunday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),2:31 PM,14,4:05 PM,94
+FD543,14/07/2022,Thursday,PC12,Marree (YMRE),Ernabella (ERB / YERN),11:48 AM,11,1:22 PM,94
+FD607,17/07/2022,Sunday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Meekatharra (MKR / YMEK),10:55 PM,22,12:29 AM,94
+FD619,9/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),8:05 PM,20,9:39 PM,94
+FD629,5/07/2022,Tuesday,PC12,Jandakot (JAD / YPJT),Leinster (LER / YLST),4:40 PM,16,6:14 PM,94
+FD630J,4/07/2022,Monday,PC24,Paraburdoo (YPBO),Jandakot (JAD / YPJT),2:35 PM,14,4:09 PM,94
+FD416,5/07/2022,Tuesday,BE20,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),8:47 PM,20,10:22 PM,95
+FD480,5/07/2022,Tuesday,B350,Mackay (MKY / YBMK),Brisbane (BNE / YBBN),1:52 PM,13,3:27 PM,95
+FD480,13/07/2022,Wednesday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),12:27 PM,12,2:02 PM,95
+FD489,17/07/2022,Sunday,BE20,Cairns Int'l (CNS / YBCS),Skardon River (YSKR),2:25 PM,14,4:00 PM,95
+FD543,18/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Prominent Hill Mine (YPMH),11:59 AM,11,1:34 PM,95
+FD619,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),5:37 PM,17,7:12 PM,95
+FD624J,13/07/2022,Wednesday,PC24,Jandakot (JAD / YPJT),Paraburdoo (YPBO),9:36 PM,21,11:11 PM,95
+FD853,11/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Anthony Lagoon (AYL / YANL),12:36 PM,12,2:11 PM,95
+FD478,13/07/2022,Wednesday,BE20,Rockhampton (ROK / YBRK),Longreach (YLRE),7:39 AM,7,9:15 AM,96
+FD608,6/07/2022,Wednesday,PC12,Kalgoorlie-Boulder (KGI / YPKG),Jandakot (JAD / YPJT),5:12 PM,17,6:48 PM,96
+FD617,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),12:39 PM,12,2:15 PM,96
+FD629,16/07/2022,Saturday,PC12,Broome Int'l (BME / YBRM),Ginbata (GBW / YGIA),10:25 PM,22,12:01 AM,96
+FD853,13/07/2022,Wednesday,PC12,Alexandria Stn (AXL / YALX),Alice Springs (ASP / YBAS),12:33 PM,12,2:09 PM,96
+AM273,18/07/2022,Monday,B350,Essendon (MEB / YMEN),Sydney (SYD / YSSY),11:40 AM,11,1:17 PM,97
+FD449,9/07/2022,Saturday,B350,Rockhampton (ROK / YBRK),Townsville Int'l / RAAF (TSV / YBTL),1:05 PM,13,2:42 PM,97
+FD456,16/07/2022,Saturday,BE20,Brisbane (BNE / YBBN),Emerald (EMD / YEML),2:47 PM,14,4:24 PM,97
+FD456,10/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Longreach (YLRE),11:07 AM,11,12:44 PM,97
+FD467,6/07/2022,Wednesday,BE20,Brisbane (BNE / YBBN),Emerald (EMD / YEML),11:52 AM,11,1:29 PM,97
+FD489,17/07/2022,Sunday,BE20,Skardon River (YSKR),Cairns Int'l (CNS / YBCS),4:15 PM,16,5:52 PM,97
+FD609,10/07/2022,Sunday,PC12,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),8:45 PM,20,10:22 PM,97
+FD617,4/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),10:52 PM,22,12:29 AM,97
+FD630J,7/07/2022,Thursday,PC24,Newman (ZNE / YNWN),Jandakot (JAD / YPJT),11:57 PM,23,1:34 AM,97
+FD423,11/07/2022,Monday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),12:05 PM,12,1:43 PM,98
+FD456,8/07/2022,Friday,BE20,Longreach (YLRE),Toowoomba (YTWB),1:42 PM,13,3:20 PM,98
+FD489,18/07/2022,Monday,BE20,Northern Peninsula (ABM / YNPE),Cairns Int'l (CNS / YBCS),3:04 PM,15,4:42 PM,98
+FD607,10/07/2022,Sunday,PC12,Kununurra (KNX / YPKU),Broome Int'l (BME / YBRM),7:37 PM,19,9:15 PM,98
+FD619,15/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Wiluna (WUN / YWLU),6:16 PM,18,7:54 PM,98
+FD624J,18/07/2022,Monday,PC24,Newman (ZNE / YNWN),Jandakot (JAD / YPJT),4:13 AM,4,5:51 AM,98
+FD489,18/07/2022,Monday,BE20,Cairns Int'l (CNS / YBCS),Northern Peninsula (ABM / YNPE),12:52 PM,12,2:31 PM,99
+FD278,13/07/2022,Wednesday,BE20,Wilcannia (WIO / YWCA),Adelaide Int'l (ADL / YPAD),8:38 PM,20,10:18 PM,100
+FD423,14/07/2022,Thursday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),3:25 PM,15,5:05 PM,100
+FD423,16/07/2022,Saturday,B350,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),10:56 PM,22,12:36 AM,100
+FD456,10/07/2022,Sunday,BE20,Rockhampton (ROK / YBRK),Longreach (YLRE),10:21 PM,22,12:01 AM,100
+FD489,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),4:34 PM,16,6:14 PM,100
+FD596,18/07/2022,Monday,PC12,Coober Pedy (CPD / YCBP),Adelaide Int'l (ADL / YPAD),3:24 PM,15,5:04 PM,100
+FD619,10/07/2022,Sunday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),12:36 PM,12,2:16 PM,100
+FD237,10/07/2022,Sunday,BE20,Broken Hill (BHQ / YBHI),Orange (OAG / YORG),12:58 PM,12,2:39 PM,101
+FD423,12/07/2022,Tuesday,B350,Horn Island (YHID),Cairns Int'l (CNS / YBCS),12:40 AM,0,2:21 AM,101
+FD425,5/07/2022,Tuesday,BE20,Brisbane (BNE / YBBN),Emerald (EMD / YEML),3:57 PM,15,5:38 PM,101
+FD449,4/07/2022,Monday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),6:02 PM,18,7:43 PM,101
+FD493,14/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Charleville (CTL / YBCV),2:09 AM,2,3:50 AM,101
+FD493,17/07/2022,Sunday,BE20,Brisbane (BNE / YBBN),Charleville (CTL / YBCV),12:14 AM,0,1:55 AM,101
+FD493,15/07/2022,Friday,BE20,Charleville (CTL / YBCV),Birdsville (BVI / YBDV),7:01 PM,19,8:42 PM,101
+FD596,6/07/2022,Wednesday,PC12,Coober Pedy (CPD / YCBP),Adelaide Int'l (ADL / YPAD),4:22 PM,16,6:03 PM,101
+FD602,13/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),11:18 PM,23,12:59 AM,101
+FD609,10/07/2022,Sunday,PC12,Karratha (KTA / YPKA),Broome Int'l (BME / YBRM),11:06 PM,23,12:47 AM,101
+FD629,15/07/2022,Friday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),2:53 AM,2,4:34 AM,101
+FD489,16/07/2022,Saturday,BE20,Cairns Int'l (CNS / YBCS),Horn Island (YHID),9:50 AM,9,11:32 AM,102
+FD416,4/07/2022,Monday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Normanton (YNTN),11:57 PM,23,1:40 AM,103
+FD489,16/07/2022,Saturday,BE20,Horn Island (YHID),Cairns Int'l (CNS / YBCS),1:23 PM,13,3:06 PM,103
+FD493,16/07/2022,Saturday,BE20,Blackall (BKQ / YBCK),Brisbane (BNE / YBBN),8:37 PM,20,10:20 PM,103
+FD601,14/07/2022,Thursday,PC12,Esperance (EPR / YESP),Jandakot (JAD / YPJT),11:32 AM,11,1:15 PM,103
+FD602,18/07/2022,Monday,PC12,Meekatharra (MKR / YMEK),RAAF Learmonth (LEA / YPLM),10:36 AM,10,12:19 PM,103
+FD607,6/07/2022,Wednesday,PC12,Kununurra (KNX / YPKU),Broome Int'l (BME / YBRM),2:02 AM,2,3:45 AM,103
+FD609,11/07/2022,Monday,PC12,Broome Int'l (BME / YBRM),Karratha (KTA / YPKA),12:56 PM,12,2:39 PM,103
+FD629,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),10:31 AM,10,12:14 PM,103
+FD213,6/07/2022,Wednesday,BE20,Dubbo (DBO / YSDU),Broken Hill (BHQ / YBHI),3:45 PM,15,5:29 PM,104
+FD608,7/07/2022,Thursday,PC12,Shark Bay (MJK / YSHK),Jandakot (JAD / YPJT),5:07 AM,5,6:51 AM,104
+FD617,6/07/2022,Wednesday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),3:13 PM,15,4:57 PM,104
+FD423,12/07/2022,Tuesday,B350,Horn Island (YHID),Cairns Int'l (CNS / YBCS),2:45 PM,14,4:30 PM,105
+FD493,7/07/2022,Thursday,BE20,Birdsville (BVI / YBDV),Roma (RMA / YROM),1:20 PM,13,3:05 PM,105
+FD602,16/07/2022,Saturday,PC12,Warburton (YWBR),Kalgoorlie-Boulder (KGI / YPKG),4:14 PM,16,5:59 PM,105
+FD607,11/07/2022,Monday,PC12,Broome Int'l (BME / YBRM),Kununurra (KNX / YPKU),2:00 PM,14,3:45 PM,105
+FD416,16/07/2022,Saturday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Osborne Mine (YOSB),1:23 PM,13,3:09 PM,106
+FD467,18/07/2022,Monday,BE20,Brisbane (BNE / YBBN),Emerald (EMD / YEML),11:53 AM,11,1:39 PM,106
+FD416,15/07/2022,Friday,BE20,Mount Isa (ISA / YBMA),Townsville Int'l / RAAF (TSV / YBTL),9:56 AM,9,11:43 AM,107
+FD602,18/07/2022,Monday,PC12,RAAF Learmonth (LEA / YPLM),Geraldton (GET / YGEL),1:03 PM,13,2:50 PM,107
+FD619,17/07/2022,Sunday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),3:16 PM,15,5:03 PM,107
+FD624J,4/07/2022,Monday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),11:48 PM,23,1:35 AM,107
+FD416,11/07/2022,Monday,BE20,Mornington Island (ONG / YMTI),Townsville Int'l / RAAF (TSV / YBTL),12:04 AM,0,1:52 AM,108
+FD480,12/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Cloncurry (CNJ / YCCY),3:41 PM,15,5:29 PM,108
+FD493,7/07/2022,Thursday,BE20,Charleville (CTL / YBCV),Birdsville (BVI / YBDV),9:07 PM,21,10:55 PM,108
+FD596,6/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Coober Pedy (CPD / YCBP),1:49 PM,13,3:38 PM,109
+FD607,5/07/2022,Tuesday,PC12,Broome Int'l (BME / YBRM),Kununurra (KNX / YPKU),11:31 PM,23,1:20 AM,109
+FD480,17/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),11:01 AM,11,12:51 PM,110
+FD602,6/07/2022,Wednesday,PC12,Blackstone Range (YBSR),Leonora (LNO / YLEO),2:58 PM,14,4:48 PM,110
+FD602,16/07/2022,Saturday,PC12,Meekatharra (MKR / YMEK),Giles (YGLS),12:57 PM,12,2:47 PM,110
+FD607,10/07/2022,Sunday,PC12,Broome Int'l (BME / YBRM),Kununurra (KNX / YPKU),5:21 PM,17,7:11 PM,110
+FD607,18/07/2022,Monday,PC12,Mount Keith (WME / YMNE),Jandakot (JAD / YPJT),3:08 AM,3,4:58 AM,110
+FD449,5/07/2022,Tuesday,B350,Brisbane (BNE / YBBN),Rockhampton (ROK / YBRK),12:28 AM,0,2:19 AM,111
+FD480,16/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),11:02 AM,11,12:53 PM,111
+FD619,7/07/2022,Thursday,PC12,Laverton (LVO / YLTN),Jandakot (JAD / YPJT),12:08 PM,12,1:59 PM,111
+FD624J,16/07/2022,Saturday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),1:25 AM,1,3:16 AM,111
+FD630J,10/07/2022,Sunday,PC24,Jandakot (JAD / YPJT),Karratha (KTA / YPKA),12:45 AM,0,2:36 AM,111
+FD416,4/07/2022,Monday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),3:47 PM,15,5:39 PM,112
+FD416,15/07/2022,Friday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),2:58 PM,14,4:50 PM,112
+FD423,6/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),1:04 PM,13,2:56 PM,112
+FD423,16/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),7:48 AM,7,9:40 AM,112
+FD601,7/07/2022,Thursday,PC12,Laverton (LVO / YLTN),Jandakot (JAD / YPJT),11:22 AM,11,1:14 PM,112
+FD619,16/07/2022,Saturday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),3:12 AM,3,5:04 AM,112
+FD630J,16/07/2022,Saturday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),4:41 PM,16,6:33 PM,112
+FD416,8/07/2022,Friday,BE20,Mount Isa (ISA / YBMA),Mackay (MKY / YBMK),9:25 AM,9,11:18 AM,113
+FD480,13/07/2022,Wednesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),10:05 AM,10,11:58 AM,113
+FD602,9/07/2022,Saturday,PC12,Jandakot (JAD / YPJT),Shark Bay (MJK / YSHK),11:04 AM,11,12:57 PM,113
+FD607,9/07/2022,Saturday,PC12,Derby (DRB / YDBY),Newman (ZNE / YNWN),12:33 PM,12,2:26 PM,113
+FD617,6/07/2022,Wednesday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),6:22 AM,6,8:15 AM,113
+FD480,9/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),11:45 AM,11,1:39 PM,114
+FD602,10/07/2022,Sunday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),12:26 AM,0,2:20 AM,114
+FD416,11/07/2022,Monday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),3:34 AM,3,5:29 AM,115
+FD478,13/07/2022,Wednesday,BE20,Longreach (YLRE),Brisbane (BNE / YBBN),9:58 AM,9,11:53 AM,115
+FD480,8/07/2022,Friday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),8:51 PM,20,10:46 PM,115
+FD534,9/07/2022,Saturday,PC12,Coober Pedy (CPD / YCBP),Adelaide Int'l (ADL / YPAD),10:44 PM,22,12:39 AM,115
+FD580,9/07/2022,Saturday,PC12,Coober Pedy (CPD / YCBP),Adelaide Int'l (ADL / YPAD),10:44 PM,22,12:39 AM,115
+FD624J,11/07/2022,Monday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),4:17 PM,16,6:12 PM,115
+FD423,16/07/2022,Saturday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),7:03 PM,19,8:59 PM,116
+FD617,8/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Mount James (YMJE),8:38 PM,20,10:34 PM,116
+FD629,5/07/2022,Tuesday,PC12,Meekatharra (MKR / YMEK),Jandakot (JAD / YPJT),8:22 PM,20,10:19 PM,117
+FD849,14/07/2022,Thursday,PC12,Alice Springs (ASP / YBAS),Tennant Creek (TCA / YTNK),12:41 PM,12,2:38 PM,117
+FD423,14/07/2022,Thursday,B350,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),10:06 AM,10,12:04 PM,118
+FD602,10/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),9:23 PM,21,11:21 PM,118
+FD629,13/07/2022,Wednesday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),12:44 PM,12,2:42 PM,118
+FD609,17/07/2022,Sunday,PC12,Broome Int'l (BME / YBRM),Broome Int'l (BME / YBRM),12:12 PM,12,2:11 PM,119
+FD624J,5/07/2022,Tuesday,PC24,Port Hedland Int'l (PHE / YPPD),Jandakot (JAD / YPJT),1:23 AM,1,3:23 AM,120
+FD849,18/07/2022,Monday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Tennant Creek (TCA / YTNK),12:56 PM,12,2:56 PM,120
+FD489,11/07/2022,Monday,BE20,Rockhampton (ROK / YBRK),Cairns Int'l (CNS / YBCS),11:17 AM,11,1:18 PM,121
+FD237,10/07/2022,Sunday,BE20,Sydney (SYD / YSSY),Broken Hill (BHQ / YBHI),4:58 PM,16,7:01 PM,123
+FD630J,11/07/2022,Monday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),5:19 AM,5,7:23 AM,124
+FD416,5/07/2022,Tuesday,BE20,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),11:31 PM,23,1:36 AM,125
+FD456,14/07/2022,Thursday,BE20,Maroochydore/Sunshine Coast (MCY / YBSU),Longreach (YLRE),1:08 PM,13,3:13 PM,125
+FD619,15/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),12:17 AM,0,2:22 AM,125
+FD624J,16/07/2022,Saturday,PC24,Port Hedland Int'l (PHE / YPPD),Jandakot (JAD / YPJT),3:08 PM,15,5:13 PM,125
+FD617,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),2:10 AM,2,4:16 AM,126
+FD629,13/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Shark Bay (MJK / YSHK),4:45 PM,16,6:51 PM,126
+FD619,17/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),11:53 AM,11,2:00 PM,127
+FD619,6/07/2022,Wednesday,PC12,Carnarvon (CVQ / YCAR),Jandakot (JAD / YPJT),2:08 PM,14,4:17 PM,129
+FD629,13/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),9:44 AM,9,11:54 AM,130
+FD423,10/07/2022,Sunday,B350,Townsville Int'l / RAAF (TSV / YBTL),Brisbane (BNE / YBBN),10:13 AM,10,12:25 PM,132
+FD478,5/07/2022,Tuesday,BE20,Bundaberg (BDB / YBUD),Longreach (YLRE),8:14 AM,8,10:26 AM,132
+FD607,4/07/2022,Monday,PC12,Derby (DRB / YDBY),Darwin Int'l / RAAF (DRW / YPDN),1:07 AM,1,3:19 AM,132
+FD624J,16/07/2022,Saturday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),5:59 AM,5,8:11 AM,132
+FD624J,13/07/2022,Wednesday,PC24,Karratha (KTA / YPKA),Jandakot (JAD / YPJT),12:10 AM,0,2:22 AM,132
+FD608,6/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Carnarvon (CVQ / YCAR),1:16 AM,1,3:29 AM,133
+FD608,11/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Paraburdoo (YPBO),5:22 PM,17,7:36 PM,134
+FD630J,11/07/2022,Monday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),11:53 PM,23,2:08 AM,135
+FD624J,9/07/2022,Saturday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),4:57 AM,4,7:15 AM,138
+FD630J,15/07/2022,Friday,PC24,Jandakot (JAD / YPJT),Derby (DRB / YDBY),2:28 PM,14,4:46 PM,138
+FD624J,16/07/2022,Saturday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),7:59 PM,19,10:18 PM,139
+FD624J,18/07/2022,Monday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),7:51 AM,7,10:10 AM,139
+FD480,11/07/2022,Monday,B350,Brisbane (BNE / YBBN),Longreach (YLRE),3:43 PM,15,6:03 PM,140
+FD624J,7/07/2022,Thursday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),5:26 AM,5,7:46 AM,140
+FD874,11/07/2022,Monday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Darwin Int'l / RAAF (DRW / YPDN),12:26 PM,12,2:46 PM,140
+FD624J,17/07/2022,Sunday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),5:13 AM,5,7:34 AM,141
+FD629,14/07/2022,Thursday,PC12,Meekatharra (MKR / YMEK),Broome Int'l (BME / YBRM),3:03 PM,15,5:24 PM,141
+FD423,12/07/2022,Tuesday,B350,Townsville Int'l / RAAF (TSV / YBTL),Horn Island (YHID),8:07 AM,8,10:29 AM,142
+FD456,7/07/2022,Thursday,BE20,Brisbane (BNE / YBBN),Blackall (BKQ / YBCK),7:46 PM,19,10:08 PM,142
+FD608,14/07/2022,Thursday,PC12,RAAF Learmonth (LEA / YPLM),Jandakot (JAD / YPJT),3:47 PM,15,6:09 PM,142
+FD624J,5/07/2022,Tuesday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),2:12 AM,2,4:34 AM,142
+FD619,13/07/2022,Wednesday,PC12,Paraburdoo (YPBO),Jandakot (JAD / YPJT),6:34 PM,18,8:57 PM,143
+FD612,18/07/2022,Monday,PC12,Jandakot (JAD / YPJT),Boolgeeda (OCM / YBGD),2:11 PM,14,4:35 PM,144
+FD624J,6/07/2022,Wednesday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),4:48 AM,4,7:12 AM,144
+FD456,8/07/2022,Friday,BE20,Brisbane (BNE / YBBN),Longreach (YLRE),9:17 AM,9,11:42 AM,145
+FD629,14/07/2022,Thursday,PC12,Broome Int'l (BME / YBRM),Meekatharra (MKR / YMEK),11:56 PM,23,2:21 AM,145
+FD624J,17/07/2022,Sunday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),9:47 PM,21,12:13 AM,146
+FD423,11/07/2022,Monday,B350,Townsville Int'l / RAAF (TSV / YBTL),Horn Island (YHID),9:09 PM,21,11:36 PM,147
+FD608,13/07/2022,Wednesday,PC12,Paraburdoo (YPBO),Jandakot (JAD / YPJT),12:41 PM,12,3:08 PM,147
+FD630J,5/07/2022,Tuesday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),12:21 PM,12,2:48 PM,147
+FD480,15/07/2022,Friday,B350,Brisbane (BNE / YBBN),Townsville Int'l / RAAF (TSV / YBTL),4:27 PM,16,6:55 PM,148
+FD630J,14/07/2022,Thursday,PC24,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),11:54 AM,11,2:22 PM,148
+FD617,8/07/2022,Friday,PC12,Paraburdoo (YPBO),Jandakot (JAD / YPJT),12:12 AM,0,2:42 AM,150
+FD423,10/07/2022,Sunday,B350,Brisbane (BNE / YBBN),Townsville Int'l / RAAF (TSV / YBTL),2:12 PM,14,4:43 PM,151
+FD624J,17/07/2022,Sunday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),4:12 PM,16,6:46 PM,154
+FD624J,8/07/2022,Friday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),12:22 AM,0,2:57 AM,155
+FD619,12/07/2022,Tuesday,PC12,Newman (ZNE / YNWN),Jandakot (JAD / YPJT),7:58 PM,19,10:35 PM,157
+FD630J,5/07/2022,Tuesday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),6:21 PM,18,8:58 PM,157
+FD624J,8/07/2022,Friday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),12:56 PM,12,3:34 PM,158
+FD630J,14/07/2022,Thursday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),4:18 PM,16,6:56 PM,158
+FD630J,15/07/2022,Friday,PC24,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),7:35 PM,19,10:14 PM,159
+FD612,18/07/2022,Monday,PC12,Boolgeeda (OCM / YBGD),Jandakot (JAD / YPJT),5:57 PM,17,8:39 PM,162
+FD849,5/07/2022,Tuesday,PC12,Adelaide Int'l (ADL / YPAD),Alice Springs (ASP / YBAS),3:09 PM,15,5:51 PM,162
+FD480,15/07/2022,Friday,B350,Innisfail (YIFL),Brisbane (BNE / YBBN),11:46 AM,11,2:31 PM,165
+FD607,5/07/2022,Tuesday,PC12,Darwin Int'l / RAAF (DRW / YPDN),Broome Int'l (BME / YBRM),4:57 AM,4,7:42 AM,165
+FD617,5/07/2022,Tuesday,PC12,Newman (ZNE / YNWN),Jandakot (JAD / YPJT),10:53 AM,10,1:38 PM,165
+FD856,11/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Adelaide Int'l (ADL / YPAD),9:22 AM,9,12:07 PM,165
+FD416,8/07/2022,Friday,BE20,Mackay (MKY / YBMK),Roxborough Downs (YROX),1:19 PM,13,4:06 PM,167
+FD493,17/07/2022,Sunday,BE20,Toowoomba (YTWB),Cunnamulla (CMA / YCMU),11:26 AM,11,2:13 PM,167
+FD849,18/07/2022,Monday,PC12,Alice Springs (ASP / YBAS),Darwin Int'l / RAAF (DRW / YPDN),9:03 AM,9,11:55 AM,172
+FD849,6/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Alice Springs (ASP / YBAS),2:41 PM,14,5:38 PM,177
+FD856,6/07/2022,Wednesday,PC12,Adelaide Int'l (ADL / YPAD),Alice Springs (ASP / YBAS),2:41 PM,14,5:38 PM,177
+FD619,9/07/2022,Saturday,PC12,Newman (ZNE / YNWN),Jandakot (JAD / YPJT),3:01 PM,15,6:09 PM,188
+FD480,11/07/2022,Monday,B350,Cairns Int'l (CNS / YBCS),Brisbane (BNE / YBBN),11:07 AM,11,2:16 PM,189
+FD608,13/07/2022,Wednesday,PC12,Jandakot (JAD / YPJT),Port Hedland Int'l (PHE / YPPD),4:52 PM,16,8:05 PM,193
+FD849,6/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Adelaide Int'l (ADL / YPAD),9:51 AM,9,1:04 PM,193
+FD856,6/07/2022,Wednesday,PC12,Alice Springs (ASP / YBAS),Adelaide Int'l (ADL / YPAD),9:51 AM,9,1:04 PM,193
+FD608,17/07/2022,Sunday,PC12,Jandakot (JAD / YPJT),Port Hedland Int'l (PHE / YPPD),3:40 AM,3,6:55 AM,195
+FD856,11/07/2022,Monday,PC12,Adelaide Int'l (ADL / YPAD),Alice Springs (ASP / YBAS),2:46 PM,14,6:03 PM,197
+FD608,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Port Hedland Int'l (PHE / YPPD),7:19 PM,19,10:37 PM,198
+FD849,5/07/2022,Tuesday,PC12,Alice Springs (ASP / YBAS),Adelaide Int'l (ADL / YPAD),9:54 AM,9,1:13 PM,199
+FD608,16/07/2022,Saturday,PC12,Port Hedland Int'l (PHE / YPPD),Jandakot (JAD / YPJT),11:01 PM,23,2:21 AM,200
+FD624J,6/07/2022,Wednesday,PC24,Kununurra (KNX / YPKU),Jandakot (JAD / YPJT),12:45 AM,0,4:06 AM,201
+FD480,5/07/2022,Tuesday,B350,Brisbane (BNE / YBBN),Townsville Int'l / RAAF (TSV / YBTL),5:24 PM,17,8:52 PM,208
+FD629,15/07/2022,Friday,PC12,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),6:25 PM,18,10:05 PM,220
+FD607,13/07/2022,Wednesday,PC12,Broome Int'l (BME / YBRM),Jandakot (JAD / YPJT),9:01 PM,21,1:02 AM,241
+FD623,14/07/2022,Thursday,PC12,Jandakot (JAD / YPJT),Broome Int'l (BME / YBRM),7:07 PM,19,11:16 PM,249
